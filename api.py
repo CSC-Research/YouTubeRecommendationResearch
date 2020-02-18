@@ -1,7 +1,3 @@
-# Sample Python code for youtube.search.list
-# See instructions for running these code samples locally:
-# https://developers.google.com/explorer-help/guides/code_samples#python
-
 import argparse
 import json
 
@@ -12,38 +8,74 @@ scopes = ["https://www.googleapis.com/auth/youtube.force-ssl"]
 DEVELOPER_KEY = 'AIzaSyDpzCbGo6uh952cwFykYKDzwJ4gBMuG4pM'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
+BASE_VIDEO_ID = "pzjnJjsjSIo"
+
+YOUTUBE = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
+
+class Video:
+	def __init__(self,vidInfo):
+		self.id = vidInfo[0]
+		self.title = vidInfo[1]
+		self.description = vidInfo[2]
+		self.channelID = vidInfo[3]
+		self.tags = vidInfo[4]
+		self.categoryId = vidInfo[5]
+		self.recs = fill_recs(self.id)
+
+	def toString(self):
+		return self.title + "\n" + self.description + "\n" + self.channelID + "\n" + "[" + ",".join(self.tags) + "]\n" + self.categoryId + "\n" + "[" + ",".join(self.recs) + "]\n"
 
 
-def youtube_search(options):
-	youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
-	developerKey=DEVELOPER_KEY)
+def fill_recs(videoID):
+    recs = []
+    response = recsRequest(videoID)
 
-	request = youtube.search().list(
+    for part in response["items"]:
+       recs.append(part["id"]["videoId"])
+
+    return recs
+
+def recsRequest(videoID):
+	request = YOUTUBE.search().list(
 		part="id,snippet",
 		maxResults=30,
 		order="relevance",
 		q="dogs",
-		relatedToVideoId="pzjnJjsjSIo",
+		relatedToVideoId=videoID,
 		safeSearch="none",
 		type="video"
 	)
+
+	return request.execute()
+
+def vidInfoRequest(videoID):
+
+	vidInfo = []
+
+	request = YOUTUBE.videos().list(
+        part="snippet",
+        id=videoID
+    )
 	response = request.execute()
 
-	print(response)
-	print(type(response))
+	vidInfo.append(videoID)
+	vidInfo.append(response["items"][0]["snippet"]["title"])
+	vidInfo.append(response["items"][0]["snippet"]["description"])
+	vidInfo.append(response["items"][0]["snippet"]["channelTitle"])
+	vidInfo.append(response["items"][0]["snippet"]["tags"])
+	vidInfo.append(response["items"][0]["snippet"]["categoryId"])
 
-	with open('output.json', 'w') as fp:
-		json.dump(response, fp, indent=2, separators=(',', ': '))
-
-	print(response)
+	return vidInfo
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
-	parser.add_argument('--q', help='Search term', default='Google')
+	parser.add_argument('--qw', help='Search term', default='Google')
 	parser.add_argument('--max-results', help='Max results', default=25)
 	args = parser.parse_args()
 
 	try:
-		youtube_search(args)
+		videoArr = vidInfoRequest(BASE_VIDEO_ID)
+		v1 = Video(videoArr)
+		print(v1.toString())
 	except HttpError, e:
 		print 'An HTTP error %d occurred:\n%s' % (e.resp.status, e.content)
