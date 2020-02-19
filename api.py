@@ -21,19 +21,23 @@ class Video:
 		self.tags = vidInfo[4]
 		self.categoryId = vidInfo[5]
 		self.recs = fill_recs(self.id)
+		self.comments = fill_comments(self.id)
+
 
 	def toString(self):
 		return self.title + "\n" + self.description + "\n" + self.channelID + "\n" + "[" + ",".join(self.tags) + "]\n" + self.categoryId + "\n" + "[" + ",".join(self.recs) + "]\n"
 
 
 def fill_recs(videoID):
-    recs = []
-    response = recsRequest(videoID)
+	i = 0
+	NUM_REC_VIDS = 4
+	recs = []
+	response = recsRequest(videoID)
 
-    for part in response["items"]:
-       recs.append(part["id"]["videoId"])
+	for i in range(NUM_REC_VIDS):
+		recs.append(response['items'][i]['id']['videoId'])
 
-    return recs
+	return recs
 
 def recsRequest(videoID):
 	request = YOUTUBE.search().list(
@@ -46,6 +50,24 @@ def recsRequest(videoID):
 		type="video"
 	)
 
+	return request.execute()
+
+def fill_comments(videoID):
+	cmts = []
+	response = commentsRequest(videoID)
+
+	for part in response["items"]:
+		cmts.append(part["snippet"]["topLevelComment"]["snippet"]["textOriginal"])
+
+	return cmts
+
+
+def commentsRequest(videoID):
+	request = YOUTUBE.commentThreads().list(
+        part="snippet,replies",
+		order="relevance",
+        videoId=videoID
+    )
 	return request.execute()
 
 def vidInfoRequest(videoID):
@@ -74,8 +96,11 @@ if __name__ == '__main__':
 	args = parser.parse_args()
 
 	try:
+		cmts = commentsRequest(BASE_VIDEO_ID)
+
 		videoArr = vidInfoRequest(BASE_VIDEO_ID)
 		v1 = Video(videoArr)
 		print(v1.toString())
+		# print(v1.comments)
 	except HttpError, e:
 		print 'An HTTP error %d occurred:\n%s' % (e.resp.status, e.content)
