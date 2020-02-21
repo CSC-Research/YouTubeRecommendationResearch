@@ -99,8 +99,12 @@ if __name__ == '__main__':
 	parser.add_argument('--max-results', help='Max results', default=25)
 	args = parser.parse_args()
 
-	v1 = Video(BASE_VIDEO_ID)
-	v1Info = v1.toString()
+	try:
+		v1 = Video(BASE_VIDEO_ID)
+		v1Info = v1.toString()
 
-	with open('output.txt', 'w') as fp:
-		fp.write(v1Info.encode('utf8'))
+		with open('output.txt', 'w') as fp:
+			fp.write(v1Info.encode('utf8'))
+			
+	except HttpError, e:
+		print 'An HTTP error %d occurred:\n%s' % (e.resp.status, e.content)
