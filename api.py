@@ -13,7 +13,10 @@ BASE_VIDEO_ID = "pzjnJjsjSIo"
 YOUTUBE = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
 
 class Video:
-	def __init__(self,vidInfo):
+	def __init__(self,videoID):
+
+		vidInfo = vidInfoRequest(videoID)
+
 		self.id = vidInfo[0]
 		self.title = vidInfo[1]
 		self.description = vidInfo[2]
@@ -22,10 +25,11 @@ class Video:
 		self.categoryId = vidInfo[5]
 		self.recs = fill_recs(self.id)
 		self.comments = fill_comments(self.id)
+		self.ranking = -1
 
 
 	def toString(self):
-		return self.title + "\n" + self.description + "\n" + self.channelID + "\n" + "[" + ",".join(self.tags) + "]\n" + self.categoryId + "\n" + "[" + ",".join(self.recs) + "]\n"
+		return "_______________________________________________\n\nTITLE\n" + self.title + "\n\nDESCRIPTION\n" + self.description + "\n\nCHANNEL\n" + self.channelID + "\n\nTAGS\n" + "[" + ",".join(self.tags) + "]" + "\n\nCATEGORY ID\n" + self.categoryId + "\n\nRECOMMENDED VIDEO IDS\n" + "[" + ",".join(self.recs) + "]\n_______________________________________________"
 
 
 def fill_recs(videoID):
@@ -96,11 +100,12 @@ if __name__ == '__main__':
 	args = parser.parse_args()
 
 	try:
-		cmts = commentsRequest(BASE_VIDEO_ID)
+		# videoArr = vidInfoRequest(BASE_VIDEO_ID)
+		v1 = Video(BASE_VIDEO_ID)
+		v1Info = v1.toString()
 
-		videoArr = vidInfoRequest(BASE_VIDEO_ID)
-		v1 = Video(videoArr)
-		print(v1.toString())
-		# print(v1.comments)
+		with open('output.txt', 'w') as fp:
+			fp.write(v1Info.encode('utf8'))
+
 	except HttpError, e:
 		print 'An HTTP error %d occurred:\n%s' % (e.resp.status, e.content)
