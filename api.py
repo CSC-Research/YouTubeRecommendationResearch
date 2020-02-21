@@ -106,5 +106,5 @@ if __name__ == '__main__':
 		with open('output.txt', 'w') as fp:
 			fp.write(v1Info.encode('utf8'))
 			
-	except HttpError, e:
+    except HttpError, e:
 		print 'An HTTP error %d occurred:\n%s' % (e.resp.status, e.content)
