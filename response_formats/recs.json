@@ -1,0 +1,1002 @@
+{
+  "nextPageToken": "CB4QAA",
+  "kind": "youtube#searchListResponse",
+  "items": [
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n72HNgvvWK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n72HNgvvWK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n72HNgvvWK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Ben Shapiro - Liberty University",
+        "channelId": "UCzibtqE6MFp4Z2gxi2_Acjw",
+        "publishedAt": "2018-04-25T19:14:20.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Liberty University",
+        "description": "On April 25, 2018, at Convocation, North America's largest weekly gathering of Christian students, Host of the Daily Wire Ben Shapiro spoke about the importance of individual freedom and preserving God and society. \n\nConvocation is North America\u2019s largest weekly gathering of Christian students, and each year it plays host to more than 80 guest speakers of national significance from every sphere of society. \n\nhttp://www.liberty.edu"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/6Vh3oLLvZ85PC2MDuFEACk6Snqs\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n72HNgvvWK8"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4wMnK6q9aNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4wMnK6q9aNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4wMnK6q9aNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Wrestler refuses to compete against girl",
+        "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+        "publishedAt": "2011-02-23T14:55:21.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "CBS News",
+        "description": "High school wrestler Joel Northrup defaulted a state match against a girl due to his religious convictions. Erica Hill spoke with Northrup about the controversy that followed his decision."
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/uNXRyXFZjC2LoYifBpiTC_3TjXI\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4wMnK6q9aNI"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zcjSeJ7zGvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zcjSeJ7zGvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zcjSeJ7zGvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Shapiro reacts to Jussie Smollett's NAACP award nomination",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "publishedAt": "2019-03-29T23:38:03.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Fox News",
+        "description": "The Daily Wire editor-in-chief Ben Shapiro weighs in on the fallout from the 'Empire' actor's scandal. #TheStory #MarthaMacCallum #FoxNews\n\nFOX News operates the FOX News Channel (FNC), FOX Business Network (FBN), FOX News Radio, FOX News Headlines 24/7, FOXNews.com and the direct-to-consumer streaming service, FOX Nation. FOX News also produces FOX News Sunday on FOX Broadcasting Company and FOX News Edge. A top five-cable network, FNC has been the most watched news channel in the country for 17 consecutive years. According to a 2018 Research Intelligencer study by Brand Keys, FOX News ranks as the second most trusted television brand in the country. Additionally, a Suffolk University/USA Today survey states Fox News is the most trusted source for television news or commentary in the country, while a 2017 Gallup/Knight Foundation survey found that among Americans who could name an objective news source, FOX News is the top-cited outlet. FNC is available in nearly 90 million homes and dominates the cable news landscape while routinely notching the top ten programs in the genre.\n \nSubscribe to Fox News!  https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nWatch full episodes of your favorite shows\nThe Five: http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity:  http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n \nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/6XBEikwLHW47n7GyZD4eBcsx8LI\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zcjSeJ7zGvs"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H86GWyrM3zE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H86GWyrM3zE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H86GWyrM3zE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Ben Shapiro blasts The New York Times' reporting on Kavanaugh",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "publishedAt": "2019-09-18T12:59:48.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Fox News",
+        "description": "Editor-in-chief of The Daily Wire and talk radio host Ben Shapiro weighs in on 'Fox & Friends.' #FoxNews\n \nFOX News operates the FOX News Channel (FNC), FOX Business Network (FBN), FOX News Radio, FOX News Headlines 24/7, FOXNews.com and the direct-to-consumer streaming service, FOX Nation. FOX News also produces FOX News Sunday on FOX Broadcasting Company and FOX News Edge. A top five-cable network, FNC has been the most-watched news channel in the country for 17 consecutive years. According to a 2018 Research Intelligencer study by Brand Keys, FOX News ranks as the second most trusted television brand in the country. Additionally, a Suffolk University/USA Today survey states Fox News is the most trusted source for television news or commentary in the country, while a 2017 Gallup/Knight Foundation survey found that among Americans who could name an objective news source, FOX News is the top-cited outlet. FNC is available in nearly 90 million homes and dominates the cable news landscape while routinely notching the top ten programs in the genre.\n\nSubscribe to Fox News!  https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nWatch full episodes of your favorite shows\nThe Five: http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha MacCallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity:  http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n\nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/nOFIisE9iCpYnHnzG3dWrlkcd-s\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H86GWyrM3zE"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vEDLb_TWJSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vEDLb_TWJSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vEDLb_TWJSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Shapiro sounds off on Ocasio-Cortez Twitter exchange",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "publishedAt": "2018-08-10T20:47:00.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Fox News",
+        "description": "Ben Shapiro reacts on 'Your World' after Alexandria Ocasio-Cortez compares his debate challenge to a 'catcall.'\n\nFOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most watched television news channel for more than 15 years and according to a Suffolk University/USA Today poll, is the most trusted television news source in the country. Owned by 21st Century Fox, FNC is available in more than 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.\n\nSubscribe to Fox News!  https://www.youtube.com/user/FoxNewsChannel\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\n \nWatch full episodes of your favorite shows\nThe Five :http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n\nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/fCl5mXr8kTgGpWxNue09Hgj6QA0\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vEDLb_TWJSo"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QzmHiuE4288/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QzmHiuE4288/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QzmHiuE4288/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Ben Shapiro Talks About His 'Criminal Case' Against Barack Obama",
+        "channelId": "UCxzcBfvmeLmUNjlyM7FMgFg",
+        "publishedAt": "2014-06-23T18:13:46.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Larry King",
+        "description": "Bestselling author Ben Shapiro joins Larry to spell out the charges he levels against the president in his new book, \"The People vs. Barack Obama: The Criminal Case Against the Obama Administration,\" and why he argues for prosecution over impeachment.\n\n#BenShapiro #Obama\n\nFACEBOOK: http://www.facebook.com/OraTV &http://www.facebook.com/LarryKing\n\nTWITTER: http://twitter.com/OraTV\nUse #LarryKingNow to make comments & ask us questions on Twitter!\n\nWatch the Full Interview Here: http://www.ora.tv/larrykingnow"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/hloiBC8RxDlk4EW98pIQTflGZCA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QzmHiuE4288"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1opHWsHr798/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1opHWsHr798/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1opHWsHr798/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Jordan Peterson and Ben Shapiro: Religion, Trans Activism, and Censorship",
+        "channelId": "UCJdKr0Bgd_5saZYqLCa9mng",
+        "publishedAt": "2018-11-30T16:22:51.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "The Rubin Report",
+        "description": "Jordan Peterson and Ben Shapiro join Dave for a discussion about religion, trans activism, censorship, the IDW, and more. Listen to The Rubin Report podcast: http://www.rubinreport.com/podcast\n\nGet The Rubin Report podcast ad-free and exclusive behind the scenes videos: http://www.patreon.com/rubinreport\n\nSubscribe to The Rubin Report: http://www.youtube.com/subscription_center?add_user=RubinReport\n\nSee Dave LIVE: http://daverubin.tv/events\n\nWATCH: WELCOME TO RUBIN SELECT! https://www.youtube.com/watch?v=-1Ft5wjghSs\n\n******\nDave Rubin\nHost of The Rubin report\nDave on Twitter: http://twitter.com/RubinReport\n\nJordan Peterson\nAuthor & Psychology Professor\nJordan on Twitter: http://twitter.com/jordanbpeterson\nJordan on YouTube: http://www.youtube.com/user/JordanPet...\nDiscount code 20% off Self Authoring: \"Rubin\"\n12 Rules For Life Amazon: http://amzn.to/2yvJf9L12 \nRules For Life Amazon Canada: http://amzn.to/2g2K7uQ12 \nRules For Life Amazon UK: http://amzn.to/2AgWCsj\nhttps://www.selfauthoring.com\nhttps://www.understandmyself.com\n\nBen Shapiro\nEditor-in-Chief, the Daily Wire\nBen on Twitter: http://twitter.com/benshapiro\nBen on YouTube: http://www.youtube.com/thedailywire\n\n******\nLISTEN to The Rubin Report podcast: www.rubinreport.com/podcast\n\nSign up for our newsletter with the best of The Rubin Report delivered to your inbox once a month: http://www.rubinreport.com/newsletter\n\nOfficial Rubin Report Merchandise: https://rubinreport.com/shop\n\nAll art on the set are original works by Caylin Rose Janet. \nGet a print here: https://www.caylinrosejanet.com/rubinreportart.html\n\n******\nThe Rubin Report is fan funded through monthly and one-time donations: http://www.rubinreport.com/support\n\n******\nFollow Dave on Twitter: https://twitter.com/RubinReport\nFollow The Rubin Report on Facebook: https://www.facebook.com/rubinreport\nFollow Dave on Facebook: https://www.facebook.com/daverubin\nAbout Dave Rubin: http://daverubin.com/\n\n******\nThe Rubin Report is the only talk show about free speech and big ideas on YouTube. Each week Dave Rubin uses logic and reason to have honest conversations about politics, polarizing issues, current events, and more. Dave goes one on one with thought leaders, authors, and comedians in 'The Sit Down,' moderates opposing voices in 'The Panel,' and gives his unfiltered thoughts in 'Direct Message.' The Rubin Report is fan-funded, find us on Patreon."
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/6-4aDsdwUewSuGTjm_8PFbfK7aY\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1opHWsHr798"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WNh5anL1Qmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WNh5anL1Qmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WNh5anL1Qmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Shapiro reacts as actor apologizes for pro-Shapiro tweet",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "publishedAt": "2018-07-20T00:16:48.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Fox News",
+        "description": "Actor Mark Duplass faces backlash for posting a tweet in support of Ben Shapiro; Shapiro responds on 'The Story with Martha MacCallum.'\n\nFOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most watched television news channel for more than 15 years and according to a Suffolk University/USA Today poll, is the most trusted television news source in the country. Owned by 21st Century Fox, FNC is available in more than 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.\n\nSubscribe to Fox News!  https://www.youtube.com/user/FoxNewsChannel\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\n \nWatch full episodes of your favorite shows\nThe Five :http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n\nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/S2ZDLhARTzSIcgAWTq-6n_gHogM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WNh5anL1Qmw"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rE0Z2k6BJI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rE0Z2k6BJI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rE0Z2k6BJI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Ben Shapiro and Piers Morgan on guns",
+        "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+        "publishedAt": "2013-01-13T23:32:24.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "CNN",
+        "description": "Guest Ben Shapiro debates Piers Morgan on gun control, and the need, or lack thereof, for assault weapons. For more CNN videos, check out http://www.youtube.com/cnn or visit our site at http://www.cnn.com/video/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/PjjYdDvPtRPXgTfHR685KU88tEE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rE0Z2k6BJI0"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JY5t6iUzajk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JY5t6iUzajk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JY5t6iUzajk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "7 Reasons Ben Shapiro Is So Dominant In Debates",
+        "channelId": "UCU_W0oE_ock8bWKjALiGs8Q",
+        "publishedAt": "2018-11-04T19:08:04.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Charisma on Command",
+        "description": "Four Emotions for an Amazing First Impression:\nhttp://bit.ly/2qsWl1w\n\nHow Jordan Peterson Wins An Argument: \nhttps://youtu.be/fS5nmy1v34c\n\nSubscribe to Charisma On Command\u2019s YouTube Account: \nhttp://bit.ly/COC-Subscribe\n\n\nArguments can be real tricky at times.\n\nWe\u2019ve all had that moment where we have great points and feel like we\u2019re in the right, but once we start conversing and expressing our opinions we either look like a fool or a bully.\n\nHow can we effectively win an argument or a debate?\n\nWe\u2019re going to breakdown some of Ben Shapiro's debate tactics and techniques so you can win an argument, even if you\u2019re wrong.\n\n\n\u23f0TIMESTAMPS\u23f0\n\n01:11 - Technique #1: Catching Non-Arguments\n01:55 - Technique #2: Getting Emotional\n02:40 - Technique #3: Pushing For Specifics\n04:07 - Technique #4: Ben Knows His Arguments Inside And Out\n06:02 - Technique #5: The Use Of Snuck Premises\n08:35 - Technique #6: Moving From The Abstract To The Concrete\n09:45 - Technique #7: Emphasize The Conditions That You Would Agree With Your Opponent\n\n------------------------------------------------------------------\n#BenShaprio #CharismaOnCommand #WinArguments\n------------------------------------------------------------------\n\nConnect With Us Further:\nWebsite: http://www.charismaoncommand.com\nFacebook: http://facebook.com/charismaoncommand\nInstagram: @CharismaOnCommand\n\nOr if you want to see our personal stuff (regular life + playing music):\nInstagram: @CharlieHoupert\nInstagram: @IamBenAltman\n\n\nMusic :\n\nWilling To Try By Jay Man:\nourmusicbox.com/Willing-to-try\n\nTime Passing By\u00a0by\u00a0Audionautix\u00a0is licensed under a\u00a0Creative Commons Attribution\u00a0license (https://creativecommons.org/licenses/by/4.0/)\nArtist:\u00a0http://audionautix.com/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/8SWMt8NA44BPtIUNu6_-v4dWq3c\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JY5t6iUzajk"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZCPhdzdu0KA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZCPhdzdu0KA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZCPhdzdu0KA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Shapiro on entitlement: You're not owed anything in this world",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "publishedAt": "2019-03-19T02:58:01.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Fox News",
+        "description": "Daily Wire editor-in-chief Ben Shaprio weighs in on the entitlement generation on 'The Ingraham Angle.'\n\nFOX News operates the FOX News Channel (FNC), FOX Business Network (FBN), FOX News Radio, FOX News Headlines 24/7, FOXNews.com and the direct-to-consumer streaming service, FOX Nation. FOX News also produces FOX News Sunday on FOX Broadcasting Company and FOX News Edge. A top five-cable network, FNC has been the most watched news channel in the country for 17 consecutive years. According to a 2018 Research Intelligencer study by Brand Keys, FOX News ranks as the second most trusted television brand in the country. Additionally, a Suffolk University/USA Today survey states Fox News is the most trusted source for television news or commentary in the country, while a 2017 Gallup/Knight Foundation survey found that among Americans who could name an objective news source, FOX News is the top-cited outlet. FNC is available in nearly 90 million homes and dominates the cable news landscape while routinely notching the top ten programs in the genre.\n \nSubscribe to Fox News!  https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nWatch full episodes of your favorite shows\nThe Five: http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity:  http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n \nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/vwvsRIO9UNKy8U05YDVfoawHlJw\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZCPhdzdu0KA"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ONuHCHks1yQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ONuHCHks1yQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ONuHCHks1yQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Shapiro on Ocasio-Cortez claiming to have Jewish heritage",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "publishedAt": "2018-12-12T16:59:07.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Fox News",
+        "description": "Democratic Congresswoman-elect Alexandria Ocasio-Cortez surprises a crowd at a Hanukkah event by saying she has Jewish heritage; reaction from Ben Shapiro, editor-in-chief of The Daily Wire.\n \nFOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most watched television news channel for more than 16 years and according to a Suffolk University/USA Today poll, is the most trusted television news source in the country. Owned by 21st Century Fox, FNC is available in more than 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.\n\nSubscribe to Fox News!  https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nWatch full episodes of your favorite shows\nThe Five: http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity:  http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n\nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/eb5JQJ-EromUjXxT0vJ7QWuSJjI\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ONuHCHks1yQ"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JOEF5m6GaGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JOEF5m6GaGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JOEF5m6GaGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Ben Shapiro fires back at late-night hosts on gun control",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "publishedAt": "2017-10-04T13:59:37.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Fox News",
+        "description": "Columnist blasts the 'moral disapproval of people who own guns.'"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/f2js0MpmqBrm_Gp2aRZw5B4N5c4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JOEF5m6GaGs"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ezZDegitDgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ezZDegitDgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ezZDegitDgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Ben Shapiro Responds to Abortion Claims",
+        "channelId": "UCijDos-LUTh9RQvSCMQqN6Q",
+        "publishedAt": "2017-10-19T17:50:00.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "EWTN",
+        "description": "Ben Shapiro, Editor-in-Chief of The Daily Wire, is known for leaving people speechless with his pro-life arguments \u2013 he joins us to unravel common abortion claims."
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/lxnS9EirRuy-_sxffmg5vTJab9c\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ezZDegitDgo"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h30n-1Y4nD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h30n-1Y4nD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h30n-1Y4nD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "On Donald Trump, Bernie Sanders, and Hillary Clinton (Pt. 1) | Ben Shapiro | POLITICS | Rubin Report",
+        "channelId": "UCJdKr0Bgd_5saZYqLCa9mng",
+        "publishedAt": "2016-02-18T17:20:19.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "The Rubin Report",
+        "description": "Dave Rubin of The Rubin Report talks to Ben Shapiro (Editor-in-Chief, The Daily Wire) about his views on the 2016 election, including Donald Trump, Hillary Clinton, and Bernie Sanders.\n\nWatch Dave Rubin\u2019s full interview with Ben Shapiro here:\nhttps://www.youtube.com/watch?v=3Qrlnn35gBo&list=PLEbhOtC9klbCr0iN2ANJbaV477B0eSpc6&index=31&t=0s\n\nIs the state of US news driving you crazy? Does the coverage of political news rarely seem \u201cfair and balanced\u201d? Serious discussions on US politics is vital to having a healthy democracy. No matter what political party you belong to, we need to be able to hear a variety of political perspectives. Whether you majored in political science or just want to have a deeper understanding of the issues you\u2019ll want to check out this playlist:\nhttps://www.youtube.com/playlist?list=PLEbhOtC9klbCr0iN2ANJbaV477B0eSpc6\n\nTo make sure you never miss a single Rubin Report video, click here to subscribe:\nhttps://www.youtube.com/channel/UCJdKr0Bgd_5saZYqLCa9mng?sub_confirmation=1\n\nLooking for smart and honest conversations about current events, political news and the culture war? Want to increase your critical thinking by listening to different perspectives on a variety of topics? If so, then you\u2019re in the right place because on The Rubin Report Dave Rubin engages the ideas of some of society's most interesting thought leaders, authors, politicians and comedians. The Rubin Report is the largest talk show about free speech and big ideas on YouTube. \nDave allows his guests to speak their minds and his audience to think for themselves.\nNew videos every week.\n\nThe Rubin Report is fan funded through monthly and one-time donations: http://www.rubinreport.com/support\n\n******\n\nDave Rubin's book, \"Don't Burn This Book\" is now available for pre-order: www.dontburnthisbook.com\n\nLISTEN to The Rubin Report podcast: www.rubinreport.com/podcast\n\nSee Dave LIVE:  https://daverubin.com/events/\n\nSign up for our newsletter with the best of The Rubin Report delivered to your inbox once a month: http://www.rubinreport.com/newsletter\n\nOfficial Rubin Report Merchandise: https://rubinreport.com/shop\n\nAll art on the set are original works by Caylin Rose Janet. \nGet a print here: https://www.caylinrosejanet.com/rubinreportart.html\n\n******\n\nBen Shapiro\nEditor-in-Chief of The Daily Wire, and Editor-at-Large of Breitbart\nBen Shapiro on Twitter: https://twitter.com/BenShapiro\n\n******\nFollow Dave on Twitter: https://twitter.com/RubinReport\nFollow The Rubin Report on Facebook: https://www.facebook.com/rubinreport\nFollow Dave on Facebook: https://www.facebook.com/daverubin\nAbout Dave Rubin: http://daverubin.com/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Arz1dPhGloM963VmuEjwmGbXFbg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h30n-1Y4nD4"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FkevH42sEl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FkevH42sEl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FkevH42sEl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Ben Shapiro talks brutal Twitter feud with Rosie O'Donnell",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "publishedAt": "2017-12-23T01:37:59.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Fox News",
+        "description": "Conservative commentator says he's testing Twitter to see if its policies on harassment are fair and balanced."
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/FasjCgpf8tHFC2hKMWkA7sLHn7Q\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FkevH42sEl4"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/chwixSkaF6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/chwixSkaF6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/chwixSkaF6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Ben Shapiro on slavery reparations and 2020 Democrats",
+        "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+        "publishedAt": "2019-02-27T01:00:19.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Fox News",
+        "description": "The Daily Wire editor-in-chief Ben Shapiro weighs in on the role of race in today's politics. #TheStory #MarthaMacCallum #FoxNews\n\nFOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most watched television news channel for more than 16 years and according to a Suffolk University/USA Today poll, is the most trusted television news source in the country. Owned by 21st Century Fox, FNC is available in more than 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.\n \nSubscribe to Fox News!  https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n \nWatch full episodes of your favorite shows\nThe Five: http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n \nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/MoIWQDGZcUKFX1iYp_U34FQ6QKE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "chwixSkaF6c"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N5Je7Yju-Nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N5Je7Yju-Nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N5Je7Yju-Nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Muslim On The Real Danger Of Ilhan Omar\u2019s Agenda (Pt. 1) | Dalia al-Aqidi | POLITICS | Rubin Report",
+        "channelId": "UCJdKr0Bgd_5saZYqLCa9mng",
+        "publishedAt": "2020-03-09T23:06:42.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "The Rubin Report",
+        "description": "Dave Rubin of The Rubin Report talks to Dalia al-Aqidi (Journalist, Republican Candidate) about why she is challenging Rep Ilhan Omar for her congressional seat in the fifth district of Minnesota. Dalia is a Muslim refugee who grew up in Iraq under Saddam Hussein. She immigrated to the US when she was 20. She shares her concerns about groups like CAIR (Council on American-Islamic Relations) and how they worked with and groomed congresswomen Ilhan Omar and Rashida Tlaib. She reveals how CAIR is a front for the Muslim Brotherhood and is working to train many more candidates in the same progressive mold.\n\nDalia will join Dave Rubin on stage in Minneapolis during the Don't Burn This Book Tour. Tickets here: https://www1.ticketmaster.com/event/06005855DB3DC506\n\nIs the state of US news driving you crazy? Does the coverage of political news rarely seem \u201cfair and balanced\u201d? Serious discussions on US politics is vital to having a healthy democracy. No matter what political party you belong to, we need to be able to hear a variety of political perspectives. Whether you majored in political science or just want to have a deeper understanding of the issues you\u2019ll want to check out this playlist:\nhttps://www.youtube.com/playlist?list=PLEbhOtC9klbCr0iN2ANJbaV477B0eSpc6\n\nTo make sure you never miss a single Rubin Report video, click here to subscribe:\nhttps://www.youtube.com/channel/UCJdKr0Bgd_5saZYqLCa9mng?sub_confirmation=1\n\nLooking for smart and honest conversations about current events, political news and the culture war? Want to increase your critical thinking by listening to different perspectives on a variety of topics? If so, then you\u2019re in the right place because on The Rubin Report Dave Rubin engages the ideas of some of society's most interesting thought leaders, authors, politicians and comedians. The Rubin Report is the largest talk show about free speech and big ideas on YouTube. \nDave allows his guests to speak their minds and his audience to think for themselves.\nNew videos every week.\n\nThe Rubin Report is fan funded through monthly and one-time donations: http://www.rubinreport.com/support\n\n******\n\nDave Rubin's book, \"Don't Burn This Book\" is now available for pre-order: www.dontburnthisbook.com\n\nLISTEN to The Rubin Report podcast: www.rubinreport.com/podcast\n\nSee Dave LIVE:  https://daverubin.com/events/\n\nSign up for our newsletter with the best of The Rubin Report delivered to your inbox once a month: http://www.rubinreport.com/newsletter\n\nOfficial Rubin Report Merchandise: https://teespring.com/stores/therubinreport\n\nAll art on the set are original works by Caylin Rose Janet. \nGet a print here: https://www.caylinrosejanet.com/rubinreportart.html\n\n******\n\nDalia al-Aqidi\nJournalist, Republican Candidate\nDalia on Twitter: https://twitter.com/dalia4congress\n\n******\n\nFollow Dave on Twitter: https://twitter.com/RubinReport\nFollow The Rubin Report on Facebook: https://www.facebook.com/rubinreport\nFollow Dave on Facebook: https://www.facebook.com/daverubin\nFollow Dave on Instagram: https://www.instagram.com/rubinreport/?hl=en\nAbout Dave Rubin: http://rubinreport.com"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/jBEKF5LbwG28-DysNd-CPlUBSJU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N5Je7Yju-Nk"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sCD9zjf_YRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sCD9zjf_YRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sCD9zjf_YRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Joe Rogan Experience #1276 - Ben Shapiro",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "publishedAt": "2019-04-03T00:12:11.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "PowerfulJRE",
+        "description": "Ben Shapiro is editor-in-chief of the Daily Wire, syndicated columnist, and host of \u201cThe Ben Shapiro Show\u201d is available on SoundCloud and iTunes. His new book \"The Right Side Of History\" is available now everywhere."
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/oWx1W_3xEcNVrW8TS97WOwmSL7Y\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sCD9zjf_YRU"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SGcdPakoytg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SGcdPakoytg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SGcdPakoytg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Ben Shapiro: Civil Discourse | Real Time with Bill Maher (HBO)",
+        "channelId": "UCy6kyFxaMqGtpE3pQTflK8A",
+        "publishedAt": "2018-06-30T04:18:29.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Real Time with Bill Maher",
+        "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nDaily Wire Editor-in-Chief and syndicated radio host Ben Shapiro joins Bill to discuss civility in the age of Trump.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: https://www.facebook.com/Maher\nFind Real Time on Twitter: https://twitter.com/RealTimers\nFind Real Time with Bill Maher Official Site: http://itsh.bo/HttKcM.\nFind Real Time with Bill Maher on HBO GO\u00ae http://itsh.bo/iioY87.\nFind Real Time with Bill Maher on Connect: http://connect.hbo.com/real-time-bill-maher\nFind Real Time on Instagram: http://instagram.com/realtimers\nThe Real Time blog: http://www.real-time-with-bill-maher-blog.com/\n\nIt's HBO.\n\nConnect with HBO Online\nFind HBO on Facebook: http://Facebook.com/HBO\nFollow @HBO on Twitter: http://Twitter.com/HBO\nFind HBO on Youtube: http://Youtube.com/HBO\nFind HBO Official Site: http://HBO.com\nFind HBO Connect: http://Connect.hbo.com\nFind HBO GO: http://HBOGO.com\nFind HBO on Instagram: http://Instagram.com/hbo\nFind HBO on Foursquare: http://Foursquare.com/hbo\n\nCheck out other HBO Channels\nHBO: http://www.youtube.com/hbo\nGame of Thrones: http://www.youtube.com/GameofThrones \nTrue Blood: http://www.youtube.com/trueblood \nHBO Sports: http://www.youtube.com/HBOsports \nHBO Documentary Films: http://www.youtube.com/HBODocs \nCinemax: http://www.youtube.com/Cinemax \nHBO Latino: http://www.youtube.com/HBOLatino"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/REVws3CG9wmibMOtqkg1T2BID0s\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SGcdPakoytg"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kasiov0ytEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kasiov0ytEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kasiov0ytEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Genders, Rights and Freedom of Speech",
+        "channelId": "UCu_u-P3cBFO7D-sAjxd_I-w",
+        "publishedAt": "2016-10-27T02:14:38.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "The Agenda with Steve Paikin",
+        "description": "Jordan Peterson, a psychology professor at the University of Toronto, posted a YouTube video criticizing the proposed Bill C-16, which adds gender identity and gender expression to the list of prohibited grounds of discrimination. His video caused concern and sparked conversation. The Agenda convenes a panel to ask: Is the legislation a matter of human rights or a case of legal overreach that threatens freedom of speech?"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/XttLg__GYippQWOaevOfnyD1DIg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kasiov0ytEc"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s9IwamztdqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s9IwamztdqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s9IwamztdqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Trump, Trans, Religion, Abortion, and Tax Cuts | Ben Shapiro | POLITICS | Rubin Report",
+        "channelId": "UCJdKr0Bgd_5saZYqLCa9mng",
+        "publishedAt": "2018-01-03T20:46:35.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "The Rubin Report",
+        "description": "Dave Rubin of The Rubin Report talks to Ben Shapiro (Daily Wire) about his thought's on Trump, the Republican tax plan, his views on abortion, religion, and more. \n\nIs the state of US news driving you crazy? Does the coverage of political news rarely seem \u201cfair and balanced\u201d? Serious discussions on US politics is vital to having a healthy democracy. No matter what political party you belong to, we need to be able to hear a variety of political perspectives. Whether you majored in political science or just want to have a deeper understanding of the issues you\u2019ll want to check out this playlist:\nhttps://www.youtube.com/playlist?list=PLEbhOtC9klbCr0iN2ANJbaV477B0eSpc6\n\nTo make sure you never miss a single Rubin Report video, click here to subscribe:\nhttps://www.youtube.com/channel/UCJdKr0Bgd_5saZYqLCa9mng?sub_confirmation=1\n\nLooking for smart and honest conversations about current events, political news and the culture war? Want to increase your critical thinking by listening to different perspectives on a variety of topics? If so, then you\u2019re in the right place because on The Rubin Report Dave Rubin engages the ideas of some of society's most interesting thought leaders, authors, politicians and comedians. The Rubin Report is the largest talk show about free speech and big ideas on YouTube. \nDave allows his guests to speak their minds and his audience to think for themselves.\nNew videos every week.\n\nThe Rubin Report is fan funded through monthly and one-time donations: http://www.rubinreport.com/support\n\n******\n\nDave Rubin's book, \"Don't Burn This Book\" is now available for pre-order: www.dontburnthisbook.com\n\nLISTEN to The Rubin Report podcast: www.rubinreport.com/podcast\n\nSee Dave LIVE:  https://daverubin.com/events/\n\nSign up for our newsletter with the best of The Rubin Report delivered to your inbox once a month: http://www.rubinreport.com/newsletter\n\nOfficial Rubin Report Merchandise: https://rubinreport.com/shop\n\nAll art on the set are original works by Caylin Rose Janet. \nGet a print here: https://www.caylinrosejanet.com/rubinreportart.html\n\n******\n\nBen Shapiro\nEditor-in-Chief, the Daily Wire\nBen on Twitter: https://twitter.com/benshapiro\nBen on YouTube: https://www.youtube.com/thedailywire\n\n******\nFollow Dave on Twitter: https://twitter.com/RubinReport\nFollow The Rubin Report on Facebook: https://www.facebook.com/rubinreport\nFollow Dave on Facebook: https://www.facebook.com/daverubin\nAbout Dave Rubin: http://daverubin.com/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/1fHl8LJn4ZdfeYOTaWBs0483njo\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s9IwamztdqA"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g-9TdoU4Ay8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g-9TdoU4Ay8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g-9TdoU4Ay8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "BEN SHAPIRO SILENCES LOGAN PAUL - IMPAULSIVE EP. 121",
+        "channelId": "UCGeBogGDZ9W3dsGx-mWQGJA",
+        "publishedAt": "2019-09-09T17:27:08.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Impaulsive",
+        "description": "Ben Shapiro, aka the Grim Reaper of the debate world, reveals the three biggest societal problems we face as Americans, including gun control, toxicity on both the right AND left, cancel culture, Gender dysphoria, and climate change... ALSO: humanizing Ben Shapiro - first kiss? Favorite cereal? Favorite podcast? Besides IMPAULSIVE, of course. \nJoin The Movement. Be A Maverick \u25ba https://maverickbyloganpaul.com\nSUBSCRIBE TO THE PODCAST \u25ba https://www.youtube.com/impaulsive\n\nLISTEN ON:\nITUNES: https://itunes.apple.com/us/podcast/impaulsive-with-logan-paul/id1442164847?mt=2\nSPOTIFY: https://open.spotify.com/show/36PzTdM4rvRPaJYdBW1ZNa?si=NIdEVBarRWuw17x3ubWZCw\nCASTBOX: https://castbox.fm/vc/1486024\n\nWatch Previous (KSI) \u25ba https://youtu.be/hT-VLPInkZc\n\nADD US ON:\nINSTAGRAM: https://www.instagram.com/impaulsiveshow/\n\n***PLEASE NOTE***\nImpaulsive is a significant break from the typical content viewers have come to expect from the vlog channel & we could not be more proud and excited to watch this unfold and grow. Please be advised that we will be exploring a wide variety of topics (some adult-themed) and our younger viewers (and their parents) should be advised that some topics will be for mature audiences only."
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/jCItGtHqh5RDUOJYUl-FeicgNqE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g-9TdoU4Ay8"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dDq6XYa0h0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dDq6XYa0h0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dDq6XYa0h0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "On Free Speech, College Campuses, & Regressive Left (Pt. 2) | Ben Shapiro | POLITICS | Rubin Report",
+        "channelId": "UCJdKr0Bgd_5saZYqLCa9mng",
+        "publishedAt": "2016-02-18T20:13:12.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "The Rubin Report",
+        "description": "Dave Rubin of The Rubin Report talks to Ben Shapiro (Editor-in-Chief, The Daily Wire) about free speech on college campuses, the Regressive Left, and more. \n\nWatch Dave Rubin\u2019s full interview with Ben Shapiro here:\nhttps://www.youtube.com/watch?v=3Qrlnn35gBo&list=PLEbhOtC9klbCr0iN2ANJbaV477B0eSpc6&index=31&t=0s\n\nIs the state of US news driving you crazy? Does the coverage of political news rarely seem \u201cfair and balanced\u201d? Serious discussions on US politics is vital to having a healthy democracy. No matter what political party you belong to, we need to be able to hear a variety of political perspectives. Whether you majored in political science or just want to have a deeper understanding of the issues you\u2019ll want to check out this playlist:\nhttps://www.youtube.com/playlist?list=PLEbhOtC9klbCr0iN2ANJbaV477B0eSpc6\n\nTo make sure you never miss a single Rubin Report video, click here to subscribe:\nhttps://www.youtube.com/channel/UCJdKr0Bgd_5saZYqLCa9mng?sub_confirmation=1\n\nLooking for smart and honest conversations about current events, political news and the culture war? Want to increase your critical thinking by listening to different perspectives on a variety of topics? If so, then you\u2019re in the right place because on The Rubin Report Dave Rubin engages the ideas of some of society's most interesting thought leaders, authors, politicians and comedians. The Rubin Report is the largest talk show about free speech and big ideas on YouTube. \nDave allows his guests to speak their minds and his audience to think for themselves.\nNew videos every week.\n\nThe Rubin Report is fan funded through monthly and one-time donations: http://www.rubinreport.com/support\n\n******\n\nDave Rubin's book, \"Don't Burn This Book\" is now available for pre-order: www.dontburnthisbook.com\n\nLISTEN to The Rubin Report podcast: www.rubinreport.com/podcast\n\nSee Dave LIVE:  https://daverubin.com/events/\n\nSign up for our newsletter with the best of The Rubin Report delivered to your inbox once a month: http://www.rubinreport.com/newsletter\n\nOfficial Rubin Report Merchandise: https://rubinreport.com/shop\n\nAll art on the set are original works by Caylin Rose Janet. \nGet a print here: https://www.caylinrosejanet.com/rubinreportart.html\n\n******\n\nBen Shapiro\nEditor-in-Chief of The Daily Wire, and Editor-at-Large of Breitbart\nBen Shapiro on Twitter: https://twitter.com/BenShapiro\n\n******\nFollow Dave on Twitter: https://twitter.com/RubinReport\nFollow The Rubin Report on Facebook: https://www.facebook.com/rubinreport\nFollow Dave on Facebook: https://www.facebook.com/daverubin\nAbout Dave Rubin: http://daverubin.com/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/M6PJ7M065AnhYszPYvsU7YSNzIQ\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dDq6XYa0h0I"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6LIR2zQ-jvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6LIR2zQ-jvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6LIR2zQ-jvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Religious Belief and the Enlightenment with Ben Shapiro",
+        "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "publishedAt": "2019-07-07T19:16:20.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Jordan B Peterson",
+        "description": "Podcast available at http://bit.ly/2JU3e5g\n\nBen Shapiro really needs no introduction, given that he is now one of the most recognized individuals on the American political/journalism scene. In any case, he is an American lawyer, writer, journalist and political commentator. He has written ten books, the latest of which is The Right Side of History: How Reason and Moral Purpose Made the West Great. \nIt (see Harper Collins Publishers at http://bit.ly/2xGzxPg and Amazon.com at https://amzn.to/2XHcS4L). \n\nHe became the youngest nationally syndicated columnist in the US at age 17. He\u2019s one of the most recognized current commentator on the new media, YouTube and Podcasts. He serves as editor in chief for the Daily Wire (https://www.dailywire.com/), which he founded, and is the host of the Ben Shapiro Show, which runs daily on podcast and radio. It can be found, for example, on Soundcloud at https://soundcloud.com/benshapiroshow \n\n--- SUPPORT THIS CHANNEL ---\n\nDonations: https://www.jordanbpeterson.com/donate\nMerchandise: https://teespring.com/stores/jordanbpeterson\n\n--- BOOKS ---\n\n12 Rules for Life: An Antidote to Chaos: https://jordanbpeterson.com/12-rules-for-life/\nMaps of Meaning: The Architecture of Belief: https://jordanbpeterson.com/maps-of-meaning/\n\n--- LINKS ---\n\nWebsite: https://jordanbpeterson.com/\n12 Rules for Life Tour: https://jordanbpeterson.com/events/\nBlog: https://jordanbpeterson.com/blog/\nPodcast: https://jordanbpeterson.com/podcast/\nReading List: https://jordanbpeterson.com/great-books/\nTwitter: https://twitter.com/jordanbpeterson\nInstagram: https://www.instagram.com/jordan.b.peterson/\nFacebook: https://www.facebook.com/drjordanpeterson\n\n--- PRODUCTS ---\n\nSelf Authoring Suite: https://selfauthoring.com/\nUnderstand Myself personality test: https://understandmyself.com/\nMerchandise: https://teespring.com/stores/jordanbpeterson"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/WT-R_AG9H7hSrYorWUpoSWCVK1M\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6LIR2zQ-jvQ"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q7yvvq-9ytE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q7yvvq-9ytE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q7yvvq-9ytE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Flat Earthers vs Scientists: Can We Trust Science?",
+        "channelId": "UCJjSDX-jUChzOEyok9XYRJQ",
+        "publishedAt": "2019-10-10T22:55:52.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "Jubilee",
+        "description": "We started a podcast! Listen to a follow up conversation with one of the Flat Earthers in our first episode: \ud83d\udc49https://anchor.fm/radicalempathy \ud83d\udc48\n\nSUBSCRIBE for more! \ud83d\udc49http://bit.ly/SUBSCRIBEjubilee \ud83d\udc48\nBe in a Jubilee video: http://bit.ly/JubileeCasting\n\nFollow us on INSTAGRAM: https://www.instagram.com/jubileemedia/\n\nAre you a loyal Jubilee fan? Join our Facebook group: https://www.facebook.com/groups/407942859721012/\n\n| ABOUT |\nJubilee exists to bridge people together and inspire love through compelling stories. We create shareable human-centric videos that create connection, challenge assumptions, and touch the soul.\n\nUltimately, we aim to inspire people to LIVE DEEPER.\n\n| SOCIAL |\nJubilee Facebook: https://www.facebook.com/jubileemedia\nJubilee Instagram: https://www.instagram.com/jubileemedia/\nJubilee Twitter: https://www.twitter.com/jubileemedia\nJubilee Website: https://www.jubileemedia.com\n\nFEATURING:\nAli\nJames\nSpencer\nDan - https://www.youtube.com/channel/UCAj298RpjxS85lw3jjJnobg\nShelley - https://www.youtube.com/channel/UC8g_CCDyv_hOLph93Zc-KtA\nWendell - https://www.youtube.com/channel/UCSnozJEN9ATZT64mfwKiscA\n\nFor brands interested in partnering with Jubilee, email us:\nhello@jubileemedia.com\n\nHelp us caption & translate this video!\n\nhttps://amara.org/v/BRLmm/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/uksWrEMv20VNPfw15-rKYUEDEeM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q7yvvq-9ytE"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Qrlnn35gBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Qrlnn35gBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Qrlnn35gBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Conservatism vs Leftism and Free Speech | Ben Shapiro | POLITICS | Rubin Report",
+        "channelId": "UCJdKr0Bgd_5saZYqLCa9mng",
+        "publishedAt": "2016-02-19T03:56:35.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "The Rubin Report",
+        "description": "Dave Rubin of The Rubin Report talks to Ben Shapiro (Editor-in-Chief, The Daily Wire) about conservatism vs leftism, free speech on college campuses, gay marriage, gun control, his debate with Piers Morgan on CNN, and more\n\nIs the state of US news driving you crazy? Does the coverage of political news rarely seem \u201cfair and balanced\u201d? Serious discussions on US politics is vital to having a healthy democracy. No matter what political party you belong to, we need to be able to hear a variety of political perspectives. Whether you majored in political science or just want to have a deeper understanding of the issues you\u2019ll want to check out this playlist:\nhttps://www.youtube.com/playlist?list=PLEbhOtC9klbCr0iN2ANJbaV477B0eSpc6\n\nTo make sure you never miss a single Rubin Report video, click here to subscribe:\nhttps://www.youtube.com/channel/UCJdKr0Bgd_5saZYqLCa9mng?sub_confirmation=1\n\nLooking for smart and honest conversations about current events, political news and the culture war? Want to increase your critical thinking by listening to different perspectives on a variety of topics? If so, then you\u2019re in the right place because on The Rubin Report Dave Rubin engages the ideas of some of society's most interesting thought leaders, authors, politicians and comedians. The Rubin Report is the largest talk show about free speech and big ideas on YouTube. \nDave allows his guests to speak their minds and his audience to think for themselves.\nNew videos every week.\n\nThe Rubin Report is fan funded through monthly and one-time donations: http://www.rubinreport.com/support\n\n******\n\nDave Rubin's book, \"Don't Burn This Book\" is now available for pre-order: www.dontburnthisbook.com\n\nLISTEN to The Rubin Report podcast: www.rubinreport.com/podcast\n\nSee Dave LIVE:  https://daverubin.com/events/\n\nSign up for our newsletter with the best of The Rubin Report delivered to your inbox once a month: http://www.rubinreport.com/newsletter\n\nOfficial Rubin Report Merchandise: https://rubinreport.com/shop\n\nAll art on the set are original works by Caylin Rose Janet. \nGet a print here: https://www.caylinrosejanet.com/rubinreportart.html\n\n******\n\nBen Shapiro\nEditor-in-Chief of The Daily Wire, and Editor-at-Large of Breitbart\nBen Shapiro on Twitter: https://twitter.com/BenShapiro\n\n******\nFollow Dave on Twitter: https://twitter.com/RubinReport\nFollow The Rubin Report on Facebook: https://www.facebook.com/rubinreport\nFollow Dave on Facebook: https://www.facebook.com/daverubin\nAbout Dave Rubin: http://daverubin.com/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/5KI7jR2VQNvf_rofT3vWVKLHdkM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3Qrlnn35gBo"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iRPDGEgaATU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iRPDGEgaATU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iRPDGEgaATU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Frontline of Free Speech (LIVE) | Jordan Peterson & Ben Shapiro | POLITICS | Rubin Report",
+        "channelId": "UCJdKr0Bgd_5saZYqLCa9mng",
+        "publishedAt": "2018-01-31T20:23:38.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "The Rubin Report",
+        "description": "Dave Rubin of The Rubin Report talks to Jordan Peterson and Ben Shapiro about postmodernism, Trump, conservatism, free speech, and rules for life. \n\nIs the state of US news driving you crazy? Does the coverage of political news rarely seem \u201cfair and balanced\u201d? Serious discussions on US politics is vital to having a healthy democracy. No matter what political party you belong to, we need to be able to hear a variety of political perspectives. Whether you majored in political science or just want to have a deeper understanding of the issues you\u2019ll want to check out this playlist:\nhttps://www.youtube.com/playlist?list=PLEbhOtC9klbCr0iN2ANJbaV477B0eSpc6\n\nTo make sure you never miss a single Rubin Report video, click here to subscribe:\nhttps://www.youtube.com/channel/UCJdKr0Bgd_5saZYqLCa9mng?sub_confirmation=1\n\nLooking for smart and honest conversations about current events, political news and the culture war? Want to increase your critical thinking by listening to different perspectives on a variety of topics? If so, then you\u2019re in the right place because on The Rubin Report Dave Rubin engages the ideas of some of society's most interesting thought leaders, authors, politicians and comedians. The Rubin Report is the largest talk show about free speech and big ideas on YouTube. \nDave allows his guests to speak their minds and his audience to think for themselves.\nNew videos every week.\n\nThe Rubin Report is fan funded through monthly and one-time donations: http://www.rubinreport.com/support\n\n******\n\nDave Rubin's book, \"Don't Burn This Book\" is now available for pre-order: www.dontburnthisbook.com\n\nLISTEN to The Rubin Report podcast: www.rubinreport.com/podcast\n\nSee Dave LIVE:  https://daverubin.com/events/\n\nSign up for our newsletter with the best of The Rubin Report delivered to your inbox once a month: http://www.rubinreport.com/newsletter\n\nOfficial Rubin Report Merchandise: https://rubinreport.com/shop\n\nAll art on the set are original works by Caylin Rose Janet. \nGet a print here: https://www.caylinrosejanet.com/rubinreportart.html\n\n******\n\nBen Shapiro\nEditor-in-Chief, the Daily Wire\nBen on Twitter: http://twitter.com/benshapiro\nBen on YouTube: http://www.youtube.com/thedailywire\n\nJordan Peterson\nPsychology Professor\nJordan on Twitter: http://twitter.com/jordanbpeterson\nJordan on YouTube: http://www.youtube.com/user/JordanPetersonVideos\nDiscount code 20% off Self Authoring: \"Rubin\"\n12 Rules For Life Amazon: http://amzn.to/2yvJf9L12 \nRules For Life Amazon Canada: http://amzn.to/2g2K7uQ12 \nRules For Life Amazon UK: http://amzn.to/2AgWCsj\nhttps://www.selfauthoring.com\nhttps://www.understandmyself.com\n\n******\nFollow Dave on Twitter: https://twitter.com/RubinReport\nFollow The Rubin Report on Facebook: https://www.facebook.com/rubinreport\nFollow Dave on Facebook: https://www.facebook.com/daverubin\nAbout Dave Rubin: http://daverubin.com/"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/mG9yfhOhwp0gJSq8YAqY8bmnJdU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iRPDGEgaATU"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZF3cUjl2WG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZF3cUjl2WG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZF3cUjl2WG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "Ben Shapiro SHREDS Pro-Choice Argument | UBCFSC Talk",
+        "channelId": "UCioON-JvOyXE-aZ2-UCBqDw",
+        "publishedAt": "2018-11-16T06:36:19.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "The Free Speech Club",
+        "description": "The UBC Free Speech Club is honoured to host Ben Shapiro on Halloween night! \n\nThe UBC Free Speech Club is nonpartisan and committed to cultivating an open dialogue on campus, where arguments are made with wit and reason rather than rhetoric and personal attack. We cherish a diversity of opinions and seek to promote an open debate stage, where political correctness no longer holds sway.\n\nBeyond just this, we are dedicated to our national brand, and are committed to opening chapters all over Canada. \n\nSUPPORT THE FSC:\nWebsite: freespeechclub.com\nFacebook: https://www.facebook.com/TheFreeSpeechclub\nTwitter: https://twitter.com/TheFSClub\nInstagram: https://www.instagram.com/thefreespeechclub\nPayPal: https://www.paypal.me/FreeSpeechClub?locale.x=en_US"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/QeTcPd4O11fZlifNSZbWD3wkcWw\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZF3cUjl2WG0"
+      }
+    },
+    {
+      "snippet": {
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/045B0KQOlWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/045B0KQOlWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/045B0KQOlWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          }
+        },
+        "title": "NOTHING BUT THE FACTS: Ben Shapiro triggers leftist with basic biology facts",
+        "channelId": "UC4-AGCUwX7C-D4BsBook9fQ",
+        "publishedAt": "2019-03-19T15:18:06.000Z",
+        "liveBroadcastContent": "none",
+        "channelTitle": "YAFTV",
+        "description": "FACT: There is male. There is female. Anyone who claims otherwise is spewing antiscientific nonsense.\n\n---\n\nWatch more #onlyatYAF videos every day! Click now to connect with us on Facebook: http://facebook.com/youngamericasfoundation"
+      },
+      "kind": "youtube#searchResult",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/ouzuFvXosNwduit0lPA6sR29_wg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "045B0KQOlWM"
+      }
+    }
+  ],
+  "regionCode": "US",
+  "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/OcbOjvbamPyEWNU1eW1PbE3LERM\"",
+  "pageInfo": {
+    "resultsPerPage": 30,
+    "totalResults": 98
+  }
+}

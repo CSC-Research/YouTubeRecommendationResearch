@@ -1,0 +1,2307 @@
+{
+  "nextPageToken": "QURTSl9pMkxBZ1diLUNseWJhbmwxal83b0diYjl1N0kzTHYwd2Z1NEZ5R052OHIwVVRfMl9TdkY1Mm11MVc3UVJTOUhHTVUtMTJBQjRiYkJIdTJhN2ZwRUxZSUFUTWhWb1lCUTR6RmJONzAwd1pDcFc3bVA2Q3AtWVVwUXRRX1NWM3kxOWpVTi1UZUpwRXhzS1lwVzZOYkdSQWJ0Q2JmODlFWFlWVjRvSkhIaUVsR0JVUjViMW9VSzlTQWNoUGFjLWxhdmhBT3dCNHBIdVpoYi1yZWJ5dWtrR3hGN2ZuMTV5Snk5WHFSSnJpX2JFaWZGck11SGtVNXdTQzdRTmZOYzNnWEEteFM4NC1ib05PNHJFSVR2MlFDTWtPaTFCU3I2ajhGdGxFXzBkSUZ4NW04SzFFMndwZldUb09UYXR2ZVlnZXhON0FnZEh1cHZ4SkFrVllQdkpPNmFrcjd6cHZjbHR5SnNFTnp5NjVzVURrRUVEUmxo",
+  "items": [
+    {
+      "snippet": {
+        "totalReplyCount": 266,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5JvF3Oi5As-lFRZlvuVElg",
+            "authorDisplayName": "Daniel Gardner",
+            "updatedAt": "2016-11-29T13:32:53.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2016-11-29T13:32:53.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UC5JvF3Oi5As-lFRZlvuVElg"
+            },
+            "canRate": true,
+            "textOriginal": "Does Ben shapiro ever breath?",
+            "likeCount": 11874,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJy1rzBl9uTPRN0tJ1HqaVXs9CBXf3Q3hWZ2hQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "Does Ben shapiro ever breath?"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/hKINZeNhsANw1vhpLIRzTI1eXbw\"",
+          "id": "UgjvbTu-TxHjUHgCoAEC"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/McOKpX90X6i5-LUiLmg47lK0UlI\"",
+      "id": "UgjvbTu-TxHjUHgCoAEC",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC2hvX3QKnhZYkAPXpB1TqSg",
+              "authorDisplayName": "ilian 1103",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-10T01:47:04.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC2hvX3QKnhZYkAPXpB1TqSg"
+              },
+              "parentId": "UgjvbTu-TxHjUHgCoAEC",
+              "textOriginal": "Daniel Gardner breathe*",
+              "likeCount": 0,
+              "updatedAt": "2020-03-10T01:47:04.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyR3Qa1lljUmYL4Ua80A36htnra_JK-192ToA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Daniel Gardner breathe*"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/qc_Fn3qZwLQNWK-jYxVANXQ9ErU\"",
+            "id": "UgjvbTu-TxHjUHgCoAEC.8LrqKH2ews396-l45askSx"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCad37gRSAoCZoQ8XaPCTJJA",
+              "authorDisplayName": "fijy",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-09T22:10:15.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCad37gRSAoCZoQ8XaPCTJJA"
+              },
+              "parentId": "UgjvbTu-TxHjUHgCoAEC",
+              "textOriginal": "Daniel Gardner only when he destroys liberals",
+              "likeCount": 0,
+              "updatedAt": "2020-03-09T22:10:15.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyGjg7rSjZKYyyMGg1iJUbzmKn6ziic5nG7Ww=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Daniel Gardner only when he destroys liberals"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/AL15prRzVTXug8uV0m1sK8G1VJg\"",
+            "id": "UgjvbTu-TxHjUHgCoAEC.8LrqKH2ews396-NG6adKIQ"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCNSIpDz6Rwl0mSjZsQX_GOw",
+              "authorDisplayName": "not the cool kid",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-08T04:17:19.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCNSIpDz6Rwl0mSjZsQX_GOw"
+              },
+              "parentId": "UgjvbTu-TxHjUHgCoAEC",
+              "textOriginal": "no",
+              "likeCount": 0,
+              "updatedAt": "2020-03-08T04:17:19.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyA-dHxtl7NRmNZi8dlF4mjiHX6uhFke66zbw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "no"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/wASuVpJ3jYtOeXp06FDP8elVg5g\"",
+            "id": "UgjvbTu-TxHjUHgCoAEC.8LrqKH2ews395vsfmHlil2"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCoWe6FYpqoA-zr7Yav0YP8A",
+              "authorDisplayName": "Calvin Hikes",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-07T22:24:21.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCoWe6FYpqoA-zr7Yav0YP8A"
+              },
+              "parentId": "UgjvbTu-TxHjUHgCoAEC",
+              "textOriginal": "No need",
+              "likeCount": 1,
+              "updatedAt": "2020-03-07T22:24:21.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzvuNb82zuzJTW1HUjs7bJ4CGq8Wv8hVM2iXA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "No need"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/2Bx5xHizBnntGhyKMYaIDVSTufU\"",
+            "id": "UgjvbTu-TxHjUHgCoAEC.8LrqKH2ews395vFHcaUceu"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCFMIUTFASTHQNqP3aDlXNqw",
+              "authorDisplayName": "Rick kaiveman",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-18T01:54:32.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCFMIUTFASTHQNqP3aDlXNqw"
+              },
+              "parentId": "UgjvbTu-TxHjUHgCoAEC",
+              "textOriginal": "No... he isnt human, a human isnt this intelligent",
+              "likeCount": 0,
+              "updatedAt": "2020-02-18T01:54:32.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyGqo0MPNoicFQNJvXWiL-Xmj5vWth1B-XoZg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "No... he isnt human, a human isnt this intelligent"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/0Uuu4471c0Tn1tX-iDLZeTdVM_Y\"",
+            "id": "UgjvbTu-TxHjUHgCoAEC.8LrqKH2ews3959hEQXbiIl"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 105,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyCjBLqrHM-kRZPXcH_EFbw",
+            "authorDisplayName": "Yannick Naert",
+            "updatedAt": "2019-11-09T23:23:54.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2019-11-09T23:23:54.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCyCjBLqrHM-kRZPXcH_EFbw"
+            },
+            "canRate": true,
+            "textOriginal": "Lol Ben finds people who smoke weed incredibly irritating, I bet it\u2019s because they talk slower.",
+            "likeCount": 2779,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyKapl4iJNQKKiI7vnT7Bvkd0VvQ7nEEUhbgA=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "Lol Ben finds people who smoke weed incredibly irritating, I bet it\u2019s because they talk slower."
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/gJ5cDysCW1P5t747H3IluhypxgQ\"",
+          "id": "Ugx2eQg7Aou4BDgvOst4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Y6DRKKuYiDYZDkUlxbHCvDDtogA\"",
+      "id": "Ugx2eQg7Aou4BDgvOst4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCIHL8NUMJf-C_CEvGpz2D-A",
+              "authorDisplayName": "Emperor Palpatine",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-07T12:58:40.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCIHL8NUMJf-C_CEvGpz2D-A"
+              },
+              "parentId": "Ugx2eQg7Aou4BDgvOst4AaABAg",
+              "textOriginal": "I was at my sisters in LA and her roommates smoke weed like every night and it was really irritating to me because I hate the smell and the way it makes my nose feel.",
+              "likeCount": 0,
+              "updatedAt": "2020-03-07T12:58:40.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJy1JM0V3SIQ0CowN1090jJbyd3sqmiePcuiQw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "I was at my sisters in LA and her roommates smoke weed like every night and it was really irritating to me because I hate the smell and the way it makes my nose feel."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Ng-GZVju4SGcuC_uebyeIKVt16U\"",
+            "id": "Ugx2eQg7Aou4BDgvOst4AaABAg.917wVdVkaM595uEYUwoZgV"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCj92YCvbNOcjX1aQ_7FoYHQ",
+              "authorDisplayName": "Michael Ouimette",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-07T02:31:01.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCj92YCvbNOcjX1aQ_7FoYHQ"
+              },
+              "parentId": "Ugx2eQg7Aou4BDgvOst4AaABAg",
+              "textOriginal": "Perhaps he can't stand the smell of skunk...",
+              "likeCount": 0,
+              "updatedAt": "2020-03-07T02:31:01.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwbs_1mykgFyWciw-TvRttlD0BHq-15D4xjGw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Perhaps he can&#39;t stand the smell of skunk..."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Xn5sbsCiSH6cJSvfmbSjnq9p68k\"",
+            "id": "Ugx2eQg7Aou4BDgvOst4AaABAg.917wVdVkaM595t6iQhKH7f"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCUkHAEEUGrt4N94iO_6m9kA",
+              "authorDisplayName": "Vanessa Martinez",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-27T03:11:39.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCUkHAEEUGrt4N94iO_6m9kA"
+              },
+              "parentId": "Ugx2eQg7Aou4BDgvOst4AaABAg",
+              "textOriginal": "They are irritating and scientifically their IQ drops when high",
+              "likeCount": 0,
+              "updatedAt": "2020-02-27T03:11:39.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJy1JA9Zl-4LKnL3uM-E9gsUrbFMQ23W24cM0w=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "They are irritating and scientifically their IQ drops when high"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/fdmEEEM34ry5y2sCZ9avQ193rfw\"",
+            "id": "Ugx2eQg7Aou4BDgvOst4AaABAg.917wVdVkaM595X0DAkvw_6"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCxRBo0mYXDHCq_HF3HHn_Uw",
+              "authorDisplayName": "orangefishblood",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-24T21:41:10.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCxRBo0mYXDHCq_HF3HHn_Uw"
+              },
+              "parentId": "Ugx2eQg7Aou4BDgvOst4AaABAg",
+              "textOriginal": "Genius.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-24T21:41:10.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwYrKUOhPgXIdUzIheT-0pH3UTY62A3kDLl_Q=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Genius."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/zaf6gdBwwpuNvhNyZe0p1HUonqA\"",
+            "id": "Ugx2eQg7Aou4BDgvOst4AaABAg.917wVdVkaM595RGnneppky"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC7T5UkxxRMq9Pj6Eur1y_4w",
+              "authorDisplayName": "Aryrix 1",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-24T03:49:47.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC7T5UkxxRMq9Pj6Eur1y_4w"
+              },
+              "parentId": "Ugx2eQg7Aou4BDgvOst4AaABAg",
+              "textOriginal": "People who smoke weed are so goddamn annoying.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-24T03:49:47.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyozOGqIMEHZfkoxkadZJ8jN_tuu1mK1yKr=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "People who smoke weed are so goddamn annoying."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/CbTseUZf1psOr3BS6qlzAGDBiDg\"",
+            "id": "Ugx2eQg7Aou4BDgvOst4AaABAg.917wVdVkaM595PMBnCBkta"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 25,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqqTQ3OprDRbKR6URWsrn2g",
+            "authorDisplayName": "ItsATrap",
+            "updatedAt": "2019-10-26T19:52:04.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2019-10-26T19:52:04.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCqqTQ3OprDRbKR6URWsrn2g"
+            },
+            "canRate": true,
+            "textOriginal": "This is how grown ups talk to each other",
+            "likeCount": 1951,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJy_6EMgFK07mT78ZPoq1y0FARPTPjCX9_Cd=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "This is how grown ups talk to each other"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/fWPqiVNeNJxHa-cHZe3su3nTiUk\"",
+          "id": "UgwURpyaAGGCdey58614AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/bjQByYAtkpMIXqJ97cXi27pHhZg\"",
+      "id": "UgwURpyaAGGCdey58614AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCQQ8Qzn_O3btHZFyyC_T4YQ",
+              "authorDisplayName": "chris san",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-06T12:57:07.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCQQ8Qzn_O3btHZFyyC_T4YQ"
+              },
+              "parentId": "UgwURpyaAGGCdey58614AaABAg",
+              "textOriginal": "@Paul Colburn Islam comes to mind.",
+              "likeCount": 0,
+              "updatedAt": "2020-03-06T12:57:07.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJx9nV4owNVGRgBI7E1966Gz6UvBoCw1AMJz0Q=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Paul Colburn Islam comes to mind."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/eu3XoDGEBpXRH0l10OwX_T0c-4U\"",
+            "id": "UgwURpyaAGGCdey58614AaABAg.90ZW7wtOFV395re_DONGKh"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCAkVyorYuBkGz2zrF5_baBw",
+              "authorDisplayName": "72sunshine",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-09T04:59:26.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCAkVyorYuBkGz2zrF5_baBw"
+              },
+              "parentId": "UgwURpyaAGGCdey58614AaABAg",
+              "textOriginal": "\u200b@Zero Crimson \nWe were checking into a hotel and it was pretty late, so they gave my father the room key and he went up to open the room.\nIn 1936, the NYCO and Fifth Avenue were placed under common ownership.\nAfter a strike in 1962, the entire Fifth Avenue system was transferred to the newly formed Manhattan and Bronx Surface Transit Operating Authority on March 22, 1962.\nWhen he opened the door he found two girls huddled in the back of the room! They were terrified because they thought my father was breaking in.\nLast year, my family went on a vacation in Maine. They only included classic works by Karl Marx, Friedrich Engels, Vladimir Lenin, and Joseph Stalin, books written by Mao Zedong and Lu Xun, a few political readings, and Revolutionary opera books.\n\u201cI had a softball tournament in Virginia Beach when I was in high school.\" But I missed the flight. The alarm went off for hours before I was finally able to get some sleep\u2026on the floor.\nThe team was flying down, but we had to book separate flights.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-09T04:59:26.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJy2lcoVmxy81yDlQw65aBezVUFJWcFMOktISg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "\u200b@Zero Crimson <br />We were checking into a hotel and it was pretty late, so they gave my father the room key and he went up to open the room.<br />In 1936, the NYCO and Fifth Avenue were placed under common ownership.<br />After a strike in 1962, the entire Fifth Avenue system was transferred to the newly formed Manhattan and Bronx Surface Transit Operating Authority on March 22, 1962.<br />When he opened the door he found two girls huddled in the back of the room! They were terrified because they thought my father was breaking in.<br />Last year, my family went on a vacation in Maine. They only included classic works by Karl Marx, Friedrich Engels, Vladimir Lenin, and Joseph Stalin, books written by Mao Zedong and Lu Xun, a few political readings, and Revolutionary opera books.<br />\u201cI had a softball tournament in Virginia Beach when I was in high school.&quot; But I missed the flight. The alarm went off for hours before I was finally able to get some sleep\u2026on the floor.<br />The team was flying down, but we had to book separate flights."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/4as-mOmwmTuX98Ms2LBGEsevwKI\"",
+            "id": "UgwURpyaAGGCdey58614AaABAg.90ZW7wtOFV394nrErkubX_"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC73Rasu8xfJ3Md_xsQRy_rw",
+              "authorDisplayName": "M Tooth",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-09T02:49:28.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC73Rasu8xfJ3Md_xsQRy_rw"
+              },
+              "parentId": "UgwURpyaAGGCdey58614AaABAg",
+              "textOriginal": "ItsATrap HELLO.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-09T02:49:28.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyu1UomRCtV0d4BIUYdMxEQtNlrbHhhUulNjw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "ItsATrap HELLO."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/_3ZdNKewkb_PliWkheQ7f8z3LzY\"",
+            "id": "UgwURpyaAGGCdey58614AaABAg.90ZW7wtOFV394ncMrWcTEU"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCd2muK8grnIc9jFywSMZPvw",
+              "authorDisplayName": "Zero Crimson",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-08T13:51:08.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCd2muK8grnIc9jFywSMZPvw"
+              },
+              "parentId": "UgwURpyaAGGCdey58614AaABAg",
+              "textOriginal": "I love this, you don't have to like ben shapiro or his whiney high pitched voice or his overt purposeless use of the \u05db\u05b4\u05bc\u05d9\u05e4\u05b8\u05bc\u05d4 but he does make some good points.",
+              "likeCount": 1,
+              "updatedAt": "2020-02-08T13:51:08.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJw7FczwLZpnF9F43g9aXDbieEiUOhOOphmVLQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "I love this, you don&#39;t have to like ben shapiro or his whiney high pitched voice or his overt purposeless use of the \u05db\u05b4\u05bc\u05d9\u05e4\u05b8\u05bc\u05d4 but he does make some good points."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/tc8RExiQLnEwJiPTWKwiideNc8k\"",
+            "id": "UgwURpyaAGGCdey58614AaABAg.90ZW7wtOFV394mEIGHeHH_"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 30,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9qFgKyQS2CJ66x8axlVriQ",
+            "authorDisplayName": "Alex Ramirez",
+            "updatedAt": "2019-11-08T11:28:05.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2019-11-08T11:28:05.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UC9qFgKyQS2CJ66x8axlVriQ"
+            },
+            "canRate": true,
+            "textOriginal": "He made such a strong point when he said the government shouldn\u2019t teach us values...",
+            "likeCount": 1789,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwy_JiiantZp_UqSvtm6S0qmAXorXcRHNZUOw=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "He made such a strong point when he said the government shouldn\u2019t teach us values..."
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/-uYtjZwVJyWgFaGujwhdJPPK3qI\"",
+          "id": "UgykhlvzQNnAbjxaM914AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/ZDeZxQF3q2v3ESxAIe30gcMicaY\"",
+      "id": "UgykhlvzQNnAbjxaM914AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCrsMdHA4Xh2-u3GXu2JYwFg",
+              "authorDisplayName": "Jacob Porter",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-22T17:03:11.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCrsMdHA4Xh2-u3GXu2JYwFg"
+              },
+              "parentId": "UgykhlvzQNnAbjxaM914AaABAg",
+              "textOriginal": "@Hudson Weaver Sorry. There's too many parents out there whose ethics are fucked up. Yeah the school teaching ethics may not be perfect, but at least it's a counterbalance to some of the nutty shit I've seen parents teach their kids. Then let the kids develop their sense of ethics as they grow up and become adults.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-22T17:03:11.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJw7NsX8cLHo1b5vaPGisn-x-Yb7l2POil6KgQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Hudson Weaver Sorry. There&#39;s too many parents out there whose ethics are fucked up. Yeah the school teaching ethics may not be perfect, but at least it&#39;s a counterbalance to some of the nutty shit I&#39;ve seen parents teach their kids. Then let the kids develop their sense of ethics as they grow up and become adults."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/mOJGycxD4J-Yj4g7zDnZe-yrae8\"",
+            "id": "UgykhlvzQNnAbjxaM914AaABAg.9144mzo34tl95LcP7GasgC"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCNsxkQ1rgJuTq3fmjj1tT1w",
+              "authorDisplayName": "Dumbo Octopus",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-21T23:44:11.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCNsxkQ1rgJuTq3fmjj1tT1w"
+              },
+              "parentId": "UgykhlvzQNnAbjxaM914AaABAg",
+              "textOriginal": "Joel Williams WHAT ARE YOU TALKING ABOUT?",
+              "likeCount": 0,
+              "updatedAt": "2020-02-21T23:44:11.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyvwjktFzoDfB0YJ-NHfBvPGruacgKDtg8rjA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Joel Williams WHAT ARE YOU TALKING ABOUT?"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/kjMML9-AA11XcNa8EsAoHb7v4r0\"",
+            "id": "UgykhlvzQNnAbjxaM914AaABAg.9144mzo34tl95JlVEOBaL3"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCHl9xBhQYB64etwXWX-DZsg",
+              "authorDisplayName": "Victor Matos",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-05T00:33:00.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCHl9xBhQYB64etwXWX-DZsg"
+              },
+              "parentId": "UgykhlvzQNnAbjxaM914AaABAg",
+              "textOriginal": "The problem today is that parents aren\u2019t teaching value neither",
+              "likeCount": 0,
+              "updatedAt": "2020-02-05T00:33:00.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyOa4I0A8aT0AaxhauKfC0F9UhKp_feSva1Xw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "The problem today is that parents aren\u2019t teaching value neither"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Ptgescco79KWgqYZb-ED6HL7wdc\"",
+            "id": "UgykhlvzQNnAbjxaM914AaABAg.9144mzo34tl94d4ZtUEEMy"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 45,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPCJI2SNxGoyKxyd24ag60A",
+            "authorDisplayName": "Malayna _6205",
+            "updatedAt": "2020-01-09T01:15:58.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2020-01-09T01:15:58.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCPCJI2SNxGoyKxyd24ag60A"
+            },
+            "canRate": true,
+            "textOriginal": "Does his wife ever win arguments \ud83d\ude02",
+            "likeCount": 946,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJx1-2Ynj7kam7sHHuEZo8_4x7q8GDUr1eFgWw=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "Does his wife ever win arguments \ud83d\ude02"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/992bzR1ryHT43EJ6KPSy1o9INBk\"",
+          "id": "UgzfegjovzVfT4y2T354AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/XnRHuTZtbYbWRZOZHgVjncR7hJQ\"",
+      "id": "UgzfegjovzVfT4y2T354AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCXeVi1Y3WyAkwEc9jXO5gag",
+              "authorDisplayName": "Ian Kerr",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-09T21:38:39.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCXeVi1Y3WyAkwEc9jXO5gag"
+              },
+              "parentId": "UgzfegjovzVfT4y2T354AaABAg",
+              "textOriginal": "Obviously, they always win \ud83d\ude02",
+              "likeCount": 0,
+              "updatedAt": "2020-03-09T21:38:39.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyRnoEL1fp6rPeF3Cb9bFPRnGL5jTu0YGlj8g=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Obviously, they always win \ud83d\ude02"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/ezEvQaj5l0v1p-aZ50KK2wimsWU\"",
+            "id": "UgzfegjovzVfT4y2T354AaABAg.93Yd0z2nI6l96-Jdi0nfud"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCjJBKAOIY_E1j8Zwj-2jkHA",
+              "authorDisplayName": "DEMIxGODxSHADOW",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-03T02:58:56.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCjJBKAOIY_E1j8Zwj-2jkHA"
+              },
+              "parentId": "UgzfegjovzVfT4y2T354AaABAg",
+              "textOriginal": "They are highly religious so I wonder if she even is allowed to have an opinion? I mean I like the idea that they both argue like this all day, but I imagine it's not.",
+              "likeCount": 0,
+              "updatedAt": "2020-03-03T02:58:56.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJykNWNwYBLeE--pdUV4RcTKfj4g1EuZGaKstA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "They are highly religious so I wonder if she even is allowed to have an opinion? I mean I like the idea that they both argue like this all day, but I imagine it&#39;s not."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/uVfZ0MHEH-5BpsMxk-wGZGJRHic\"",
+            "id": "UgzfegjovzVfT4y2T354AaABAg.93Yd0z2nI6l95irjOTQubj"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCY3qpM7CSQ7qxWVz3BYLmTg",
+              "authorDisplayName": "Haanzen",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-28T21:50:20.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCY3qpM7CSQ7qxWVz3BYLmTg"
+              },
+              "parentId": "UgzfegjovzVfT4y2T354AaABAg",
+              "textOriginal": "lfskyden but he speaks so clear too",
+              "likeCount": 0,
+              "updatedAt": "2020-02-28T21:50:20.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwz2aHg_Yhhoj9EiGtIEG89zRIIFIJZQxfDVQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "lfskyden but he speaks so clear too"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/iyhOfN7e7RRbVKPJEFr9_d1V95g\"",
+            "id": "UgzfegjovzVfT4y2T354AaABAg.93Yd0z2nI6l95aa1VdjGK9"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 7,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuC3dg5nB1IJNNAOXrcU6Lg",
+            "authorDisplayName": "Katie Mikell",
+            "updatedAt": "2020-01-09T05:52:42.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2020-01-09T05:52:42.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCuC3dg5nB1IJNNAOXrcU6Lg"
+            },
+            "canRate": true,
+            "textOriginal": "Daddy can we read a book \nBen: OK honey let\u2019s go \n30 seconds later...what other book would you like to read?",
+            "likeCount": 591,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyHqd5uqFqy0WAlZ-N_HTrzRQjBsd51ssmlow=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "Daddy can we read a book <br />Ben: OK honey let\u2019s go <br />30 seconds later...what other book would you like to read?"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/88uoAAjqkz6kyg21Cxs-PhxEYWU\"",
+          "id": "UgwxNbyUJkDdR21jIvl4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/GcR09yC9Y55HydjaLQaJ1SYJlBc\"",
+      "id": "UgwxNbyUJkDdR21jIvl4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCE3NEQqcgpUG-m_jDr-CyAQ",
+              "authorDisplayName": "Maddy Shy",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-02T21:40:00.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCE3NEQqcgpUG-m_jDr-CyAQ"
+              },
+              "parentId": "UgwxNbyUJkDdR21jIvl4AaABAg",
+              "textOriginal": "Cunning Fox there are now",
+              "likeCount": 0,
+              "updatedAt": "2020-03-02T21:40:00.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzrAF0YFVrWtBMHG_z0rtKcpkIAiGFUinLRkA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Cunning Fox there are now"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/C7eikPcCsQIVwqBWRMbu4H7OufM\"",
+            "id": "UgwxNbyUJkDdR21jIvl4AaABAg.93Z7gqXT1vE95iIENqMPXZ"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC-6gHSYWFr9KcxQABqvXn2g",
+              "authorDisplayName": "Shaikul !",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-07T15:16:34.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC-6gHSYWFr9KcxQABqvXn2g"
+              },
+              "parentId": "UgwxNbyUJkDdR21jIvl4AaABAg",
+              "textOriginal": "That was quite funny\ud83d\udc4d\ud83c\udffd\ud83d\ude02\ud83e\udd2f",
+              "likeCount": 0,
+              "updatedAt": "2020-02-07T15:16:34.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJztuWW8qCA6aSKb-kcMxaaFObNrpu8sVz10Kw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "That was quite funny\ud83d\udc4d\ud83c\udffd\ud83d\ude02\ud83e\udd2f"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/JF1D0uZPf1nYR8vtXkY0a7JwEzY\"",
+            "id": "UgwxNbyUJkDdR21jIvl4AaABAg.93Z7gqXT1vE94joH5bbsyF"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCGTqwJacpacUl23RN1Ybbgg",
+              "authorDisplayName": "Sarah Killblane",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-01-18T02:44:43.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCGTqwJacpacUl23RN1Ybbgg"
+              },
+              "parentId": "UgwxNbyUJkDdR21jIvl4AaABAg",
+              "textOriginal": "Katie Mikell \ud83d\ude02",
+              "likeCount": 1,
+              "updatedAt": "2020-01-18T02:44:43.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJx6UXGgyGHrkATZJlUC7leJAiB0DHDeKPKtkQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Katie Mikell \ud83d\ude02"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/92N1dk1SkHxkOniDcCKsvDUNoQo\"",
+            "id": "UgwxNbyUJkDdR21jIvl4AaABAg.93Z7gqXT1vE93uyKrPD02n"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCuC3dg5nB1IJNNAOXrcU6Lg",
+              "authorDisplayName": "Katie Mikell",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-01-14T23:12:56.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCuC3dg5nB1IJNNAOXrcU6Lg"
+              },
+              "parentId": "UgwxNbyUJkDdR21jIvl4AaABAg",
+              "textOriginal": "Cunning Fox At least! \ud83d\ude0a",
+              "likeCount": 4,
+              "updatedAt": "2020-01-14T23:12:56.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyHqd5uqFqy0WAlZ-N_HTrzRQjBsd51ssmlow=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Cunning Fox At least! \ud83d\ude0a"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/e359vIMVtv_KnjK96oFMxgiF_OI\"",
+            "id": "UgwxNbyUJkDdR21jIvl4AaABAg.93Z7gqXT1vE93mri9NXr02"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCDjjGA0rA0rxb-LGYWECQaA",
+              "authorDisplayName": "Helias Buzzi",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-01-14T22:33:55.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCDjjGA0rA0rxb-LGYWECQaA"
+              },
+              "parentId": "UgwxNbyUJkDdR21jIvl4AaABAg",
+              "textOriginal": "i\u2019m genuinely dead lmfaoo",
+              "likeCount": 1,
+              "updatedAt": "2020-01-14T22:33:55.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzL4KcrJXLNV5aq2Gy2EsFAhgsgVC-2SlFumA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "i\u2019m genuinely dead lmfaoo"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/tDa4d8OBg4sM1kPGUf2iygZYB88\"",
+            "id": "UgwxNbyUJkDdR21jIvl4AaABAg.93Z7gqXT1vE93mnFMb7AHW"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 0,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvT0xaQSa2hl9HiO0q6C86A",
+            "authorDisplayName": "Overlord",
+            "updatedAt": "2020-02-23T16:18:26.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2020-02-23T16:18:26.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCvT0xaQSa2hl9HiO0q6C86A"
+            },
+            "canRate": true,
+            "textOriginal": "The guy who eminem is most afraid to do a rap battle with.",
+            "likeCount": 82,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJw_Yj6Zl_-L7XEk6wOXSKzMG00VMI3KutStjQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "The guy who eminem is most afraid to do a rap battle with."
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/FHu_yeaeyAUh_FSrQUK3kJDk8Ug\"",
+          "id": "UgwIMl_e2o34DzmoYJ14AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Q26OXhod0TCe298NgzPa2JRSui8\"",
+      "id": "UgwIMl_e2o34DzmoYJ14AaABAg"
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 14,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKQBlmzSDCBNO-kNm7qKA-w",
+            "authorDisplayName": "James Wigley",
+            "updatedAt": "2019-11-29T19:29:23.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2019-11-06T05:05:51.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCKQBlmzSDCBNO-kNm7qKA-w"
+            },
+            "canRate": true,
+            "textOriginal": "If America would discuss things the way these 2 did this country would be a much better place",
+            "likeCount": 757,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxqPU_FOVLGPkKikQ7NI0R9f4BW_eU0oZoo_w=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "If America would discuss things the way these 2 did this country would be a much better place"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/5l_vam0WutQY873vDRWMq8FD3Io\"",
+          "id": "UgwRdfCx_hKgRP9H7zJ4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/5ov26xnuyxxT29db6faACVCGjEo\"",
+      "id": "UgwRdfCx_hKgRP9H7zJ4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCjJBKAOIY_E1j8Zwj-2jkHA",
+              "authorDisplayName": "DEMIxGODxSHADOW",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-03T03:02:02.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCjJBKAOIY_E1j8Zwj-2jkHA"
+              },
+              "parentId": "UgwRdfCx_hKgRP9H7zJ4AaABAg",
+              "textOriginal": "Totally! They are not giving up what they believe, but they are still sharing views and finding some common grounds. This used to be the world, and I weep for it's death.",
+              "likeCount": 0,
+              "updatedAt": "2020-03-03T03:02:02.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJykNWNwYBLeE--pdUV4RcTKfj4g1EuZGaKstA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Totally! They are not giving up what they believe, but they are still sharing views and finding some common grounds. This used to be the world, and I weep for it&#39;s death."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/PeQjztYcgJNSJJonDTV34o6Nnl0\"",
+            "id": "UgwRdfCx_hKgRP9H7zJ4AaABAg.90zFSdvdfTc95is54aGUlH"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCmnXYhUW_t-3xJfcyPFq08g",
+              "authorDisplayName": "Kim Jon Un Official VEVO",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-19T00:51:52.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCmnXYhUW_t-3xJfcyPFq08g"
+              },
+              "parentId": "UgwRdfCx_hKgRP9H7zJ4AaABAg",
+              "textOriginal": "jussayin mipeece my man, I'm so glad someone brought that video up again, I was thinking of uploading it on pornhub, because that's where you go to see someone get FUCKED",
+              "likeCount": 0,
+              "updatedAt": "2020-02-19T00:51:52.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwmS-7DacjpcCxjd19as-umE51V7ZlcGuqvzQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "jussayin mipeece my man, I&#39;m so glad someone brought that video up again, I was thinking of uploading it on pornhub, because that&#39;s where you go to see someone get FUCKED"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/__ofqp84KM9gv1CTR7HOrSmh3Nw\"",
+            "id": "UgwRdfCx_hKgRP9H7zJ4AaABAg.90zFSdvdfTc95C9rIJwDBi"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCcTQqUCG8tyajRB1aePJhsg",
+              "authorDisplayName": "Brandished Nail",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-18T01:53:17.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCcTQqUCG8tyajRB1aePJhsg"
+              },
+              "parentId": "UgwRdfCx_hKgRP9H7zJ4AaABAg",
+              "textOriginal": "I like to think that most people are rational enough to talk like this. \n      Before the internet we all lived our lives influenced by our immediate surrounding. When I was young, growing up in the midwest, places like California and Florida were like far away lands.  All we ever saw was out immediate culture with TV and music to bring in something from elsewhere.  \n     Now, with the explosion in technology the world is not as small for us and what we thought made us significant was not that important any more.  \n     We are still reeling from a culture shock folks.  We need to just cowboy up, get a grip on the reins, and hold on for the ride.  And everybody just quit fucking complaining for one god damn moment in your miserable lives.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-18T01:53:17.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJy-xRy5W8SSlGxeLW8dAOPGGr-JRlVIctg1dw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "I like to think that most people are rational enough to talk like this. <br />      Before the internet we all lived our lives influenced by our immediate surrounding. When I was young, growing up in the midwest, places like California and Florida were like far away lands.  All we ever saw was out immediate culture with TV and music to bring in something from elsewhere.  <br />     Now, with the explosion in technology the world is not as small for us and what we thought made us significant was not that important any more.  <br />     We are still reeling from a culture shock folks.  We need to just cowboy up, get a grip on the reins, and hold on for the ride.  And everybody just quit fucking complaining for one god damn moment in your miserable lives."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/NU7MFuD9Nkfk8E8OeUlxhEpARSQ\"",
+            "id": "UgwRdfCx_hKgRP9H7zJ4AaABAg.90zFSdvdfTc959h5KM8m-h"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCso-kLCo4ppPFxijvysufSQ",
+              "authorDisplayName": "jussayin mipeece",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-08T16:41:26.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCso-kLCo4ppPFxijvysufSQ"
+              },
+              "parentId": "UgwRdfCx_hKgRP9H7zJ4AaABAg",
+              "textOriginal": "seriously? You think that the country if everyone sounded like a chipmonk on helium the country would be better off. This guy is an idiot who thinks that because he talks fast then he sounds smart. \nEvery-time he is asked a question he re-frames it into his terms then answers the question that he has framed , not the actual question that was asked. Thats why when he went on the BBC and the host refused to let him re-frame the questions he fell apart and folded like a cheap suit",
+              "likeCount": 1,
+              "updatedAt": "2020-02-08T16:41:26.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzZ-tuEy3rlZyKNzHSnWJz-LnDWNM70_m-sog=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "seriously? You think that the country if everyone sounded like a chipmonk on helium the country would be better off. This guy is an idiot who thinks that because he talks fast then he sounds smart. <br />Every-time he is asked a question he re-frames it into his terms then answers the question that he has framed , not the actual question that was asked. Thats why when he went on the BBC and the host refused to let him re-frame the questions he fell apart and folded like a cheap suit"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/vgI-ul0FHYOle4ECYU8nmWmisg8\"",
+            "id": "UgwRdfCx_hKgRP9H7zJ4AaABAg.90zFSdvdfTc94mXma62JWU"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 60,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGkjZfqbB2Kb2qTIB-h_D1A",
+            "authorDisplayName": "Brenda Youngblood",
+            "updatedAt": "2020-02-03T02:39:42.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2020-02-03T02:39:42.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCGkjZfqbB2Kb2qTIB-h_D1A"
+            },
+            "canRate": true,
+            "textOriginal": "As a Christian I don't really care if a gay couple gets married, I just don't want them to force my church to participate in a gay wedding if we don't want to.",
+            "likeCount": 277,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJynHFrmJ0qqt7jyA4zAdXLxlivc5O4Mag98qQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "As a Christian I don&#39;t really care if a gay couple gets married, I just don&#39;t want them to force my church to participate in a gay wedding if we don&#39;t want to."
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/-ZFd647Ma2UgdE513fCPo1TRnRQ\"",
+          "id": "Ugx-ts7W7UvnutHBust4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/EpNf_pOH3m8VtH-wXoIwpTs3OP4\"",
+      "id": "Ugx-ts7W7UvnutHBust4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC8f7q1rckoVNtKm3O6l1HEA",
+              "authorDisplayName": "TrollMalefico1984",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-10T21:27:49.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC8f7q1rckoVNtKm3O6l1HEA"
+              },
+              "parentId": "Ugx-ts7W7UvnutHBust4AaABAg",
+              "textOriginal": "@Brenda Youngblood Activism comes to my mind. The first christians were ready to sacrifice their lives or live secluded in the catacombs not to tolerate the persecution. Allowing, intellectually, the wrongs that people do is not morally acceptable. \"Abortion? When it's needed. Execution? For those that deserved it. The giving and taking of life will always be altering the future.\"",
+              "likeCount": 0,
+              "updatedAt": "2020-03-10T21:27:49.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJw7cIkMU1fc5cpM5tpaEM15Xy3M8Q8BsCak1A=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Brenda Youngblood Activism comes to my mind. The first christians were ready to sacrifice their lives or live secluded in the catacombs not to tolerate the persecution. Allowing, intellectually, the wrongs that people do is not morally acceptable. &quot;Abortion? When it&#39;s needed. Execution? For those that deserved it. The giving and taking of life will always be altering the future.&quot;"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/lIFrPs4WLEPvshJ256YPqlgsds4\"",
+            "id": "Ugx-ts7W7UvnutHBust4AaABAg.94Z9U3PS1PB961sCCN_ZQj"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCGkjZfqbB2Kb2qTIB-h_D1A",
+              "authorDisplayName": "Brenda Youngblood",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-10T21:20:39.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCGkjZfqbB2Kb2qTIB-h_D1A"
+              },
+              "parentId": "Ugx-ts7W7UvnutHBust4AaABAg",
+              "textOriginal": "@TrollMalefico1984 there's many things that are destructive to society that are legal.  Abortion comes to mind.  As a Christian I can disapprove all I want.  I can't however be responsible for anyone's actions except my own unless I wish to use force and I find that evil.  I still say that we can't force our beliefs on others.",
+              "likeCount": 0,
+              "updatedAt": "2020-03-10T21:21:17.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJynHFrmJ0qqt7jyA4zAdXLxlivc5O4Mag98qQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@TrollMalefico1984 there&#39;s many things that are destructive to society that are legal.  Abortion comes to mind.  As a Christian I can disapprove all I want.  I can&#39;t however be responsible for anyone&#39;s actions except my own unless I wish to use force and I find that evil.  I still say that we can&#39;t force our beliefs on others."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/AqKXaKoz8OMJSWfVLkm_VY5zpGs\"",
+            "id": "Ugx-ts7W7UvnutHBust4AaABAg.94Z9U3PS1PB961rNe-5aH6"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC8f7q1rckoVNtKm3O6l1HEA",
+              "authorDisplayName": "TrollMalefico1984",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-10T20:54:33.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC8f7q1rckoVNtKm3O6l1HEA"
+              },
+              "parentId": "Ugx-ts7W7UvnutHBust4AaABAg",
+              "textOriginal": "As a christian I disagree from what you said. Homosexual marriage is destructive to society and civilization. If we want to be like animals it's ok, but that's not the way to make progresses.",
+              "likeCount": 0,
+              "updatedAt": "2020-03-10T20:54:33.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJw7cIkMU1fc5cpM5tpaEM15Xy3M8Q8BsCak1A=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "As a christian I disagree from what you said. Homosexual marriage is destructive to society and civilization. If we want to be like animals it&#39;s ok, but that&#39;s not the way to make progresses."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/ivZTT_yjG_coU5xV-9B05z-pIvI\"",
+            "id": "Ugx-ts7W7UvnutHBust4AaABAg.94Z9U3PS1PB961oO_2sAka"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCkR-6Y4WdtYZ5LnKGnKTLOQ",
+              "authorDisplayName": "Person That exists",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-08T15:40:13.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCkR-6Y4WdtYZ5LnKGnKTLOQ"
+              },
+              "parentId": "Ugx-ts7W7UvnutHBust4AaABAg",
+              "textOriginal": "@Kri S exactly, people are so dramatic. No one wants to get married in a church full of judgmental people who hate them.",
+              "likeCount": 0,
+              "updatedAt": "2020-03-08T15:40:13.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyf1vTlyXzt3lWW1rVyaqqNb3-5gzYXBUw1=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Kri S exactly, people are so dramatic. No one wants to get married in a church full of judgmental people who hate them."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/oxM7KIv2OYrdjWn3XzjxiShYr5Q\"",
+            "id": "Ugx-ts7W7UvnutHBust4AaABAg.94Z9U3PS1PB95x5pb-FY-g"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCIHL8NUMJf-C_CEvGpz2D-A",
+              "authorDisplayName": "Emperor Palpatine",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-07T13:06:23.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCIHL8NUMJf-C_CEvGpz2D-A"
+              },
+              "parentId": "Ugx-ts7W7UvnutHBust4AaABAg",
+              "textOriginal": "I am also a Christian and I definitely don't agree with gay marriage really I don't like GAY at all. And I don't mean to judge but people being forced into gay marriage or churches being forced to support it is just blasphemy you could say.",
+              "likeCount": 0,
+              "updatedAt": "2020-03-07T13:06:23.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJy1JM0V3SIQ0CowN1090jJbyd3sqmiePcuiQw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "I am also a Christian and I definitely don&#39;t agree with gay marriage really I don&#39;t like GAY at all. And I don&#39;t mean to judge but people being forced into gay marriage or churches being forced to support it is just blasphemy you could say."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/bW5SW-NPBfn0QmqT_aH4wtKPijI\"",
+            "id": "Ugx-ts7W7UvnutHBust4AaABAg.94Z9U3PS1PB95uFQziNe-X"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 59,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnmz0sxkeaVha1BYzm8eMTA",
+            "authorDisplayName": "Mac Stark",
+            "updatedAt": "2019-05-02T10:55:31.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2019-05-02T10:55:31.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCnmz0sxkeaVha1BYzm8eMTA"
+            },
+            "canRate": true,
+            "textOriginal": "The fact that Dave Rubin is gay did not come up once during the entire conversation on gay marriage. What an incredibly unbiased host! Hats off to Dave! Very impressive.",
+            "likeCount": 3224,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxambiXQ9zPDXW5GPIgbLeCodf8gd0Z2Qg71w=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "The fact that Dave Rubin is gay did not come up once during the entire conversation on gay marriage. What an incredibly unbiased host! Hats off to Dave! Very impressive."
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/ARBdjNFfHnMu21DCUcwCS3KXBR4\"",
+          "id": "Ugzulaax-F0w1rZQTkd4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/L4T1iN16vcGJgwsIAGmaWMGv2Cg\"",
+      "id": "Ugzulaax-F0w1rZQTkd4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC3EI4UNnpbKCZNPiMMXB1Cw",
+              "authorDisplayName": "BlackieChan KHD",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-27T09:21:41.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC3EI4UNnpbKCZNPiMMXB1Cw"
+              },
+              "parentId": "Ugzulaax-F0w1rZQTkd4AaABAg",
+              "textOriginal": "@Myles Peterson Yeah but they aren't needed now due to the vast amount of orphans and homeless due to lack of jobs also yes obviously gay people wouldnt be able to build a growing nation by themselves but neither would potatoes but you and I are not potatoes we aren't all the same so that argument is invalid because the only time gay people would need straight people is if they need children and not even all of them want children",
+              "likeCount": 0,
+              "updatedAt": "2020-02-27T09:21:41.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwUUg3tfYaQsHWt2MiEmQLwuHMNJecANz-Yaw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Myles Peterson Yeah but they aren&#39;t needed now due to the vast amount of orphans and homeless due to lack of jobs also yes obviously gay people wouldnt be able to build a growing nation by themselves but neither would potatoes but you and I are not potatoes we aren&#39;t all the same so that argument is invalid because the only time gay people would need straight people is if they need children and not even all of them want children"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/IaEiFjAhp-zhJpdF9zt_HPd0QPA\"",
+            "id": "Ugzulaax-F0w1rZQTkd4AaABAg.8uQn18jphmR95XfZMO0qdR"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCfBDhx4ehsfMlnsZPB7eLGA",
+              "authorDisplayName": "Big Shmooz",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-13T06:02:18.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCfBDhx4ehsfMlnsZPB7eLGA"
+              },
+              "parentId": "Ugzulaax-F0w1rZQTkd4AaABAg",
+              "textOriginal": "@Straycat Annie'75 percent of Jews are gay'\nMy response, that is one of the most ridiculous comments I have ever read in my life. (and believe me when I write, I have read many ridiculous ones)\nP.S. I'm Jewish.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-13T06:02:18.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzuYLRDC_CHFwHlzfc_Ft7CqdQC1brlIsGB9g=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Straycat Annie&#39;75 percent of Jews are gay&#39;<br />My response, that is one of the most ridiculous comments I have ever read in my life. (and believe me when I write, I have read many ridiculous ones)<br />P.S. I&#39;m Jewish."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/ECHELfk2xvqvM-E-ClX53H_wYR0\"",
+            "id": "Ugzulaax-F0w1rZQTkd4AaABAg.8uQn18jphmR94yGbmE6alW"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCeulfQFrRVtZXEJISJPI_1Q",
+              "authorDisplayName": "John Doe",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-12T00:09:22.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCeulfQFrRVtZXEJISJPI_1Q"
+              },
+              "parentId": "Ugzulaax-F0w1rZQTkd4AaABAg",
+              "textOriginal": "who is this kid he is interviewing? sound like he is fucking high as a kite cant fucking stop speaking constantly and fast as fuck. Usually ppl like this have taken some meds or drugs .... not to mention his rude behavior never letting the host get in a word. pfft what a fucking loser.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-12T00:09:22.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyQ44oZG-W30gJ8OzaCUFBRoqhQyr1S9cg9Kw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "who is this kid he is interviewing? sound like he is fucking high as a kite cant fucking stop speaking constantly and fast as fuck. Usually ppl like this have taken some meds or drugs .... not to mention his rude behavior never letting the host get in a word. pfft what a fucking loser."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/D5CskPpG3EZFy0jVDkxBz-8v9r8\"",
+            "id": "Ugzulaax-F0w1rZQTkd4AaABAg.8uQn18jphmR94v3QumjqJL"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCJUqC8_iCdotijmbVVtdbwQ",
+              "authorDisplayName": "Ahmet Fatih Usta",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-09T19:33:39.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCJUqC8_iCdotijmbVVtdbwQ"
+              },
+              "parentId": "Ugzulaax-F0w1rZQTkd4AaABAg",
+              "textOriginal": "@y not i was speaking in general",
+              "likeCount": 0,
+              "updatedAt": "2020-02-09T19:33:39.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwTHNkhLXBUma5Y72wN5lSUZDeDbn9yDwbckw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@y not i was speaking in general"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/1dTrL8Wvhk5fCPuZlNK8yHF4MK8\"",
+            "id": "Ugzulaax-F0w1rZQTkd4AaABAg.8uQn18jphmR94pQHmIZ1jv"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCKVn4QWbgkklvVxJuaH75Ow",
+              "authorDisplayName": "y not",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-09T17:30:48.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCKVn4QWbgkklvVxJuaH75Ow"
+              },
+              "parentId": "Ugzulaax-F0w1rZQTkd4AaABAg",
+              "textOriginal": "@Angelus Umbra \nThe people will elect Trump again for a second term in historical landslide fashion . \nOptics , misinformation, and the non stop  24/7 false attacks  confuse your objectivity and reason . \nIf you haven't seen it by now , soon you will .\nThe Trump successes for America are many , he is a complete outsider who refuses to be bought off like the corrupt  status quo country club political society.\nEvery coup attempt by the leftists and deep state have failed miserably . \nThe masses are with Trump , growing everyday for obvious tangible reasons . You might not like the optics , but you can't argue a case against the wild success .\nThe Durham Giuliani Sessions etc reports are about to come out . These are going to shock the world and bring people together . \nGrab your popcorn , your unknowingly watching America heal .",
+              "likeCount": 0,
+              "updatedAt": "2020-02-09T17:30:48.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwljSBVE1gA-KhWL08MKjTX1FtXhb5eHTu-Cg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Angelus Umbra <br />The people will elect Trump again for a second term in historical landslide fashion . <br />Optics , misinformation, and the non stop  24/7 false attacks  confuse your objectivity and reason . <br />If you haven&#39;t seen it by now , soon you will .<br />The Trump successes for America are many , he is a complete outsider who refuses to be bought off like the corrupt  status quo country club political society.<br />Every coup attempt by the leftists and deep state have failed miserably . <br />The masses are with Trump , growing everyday for obvious tangible reasons . You might not like the optics , but you can&#39;t argue a case against the wild success .<br />The Durham Giuliani Sessions etc reports are about to come out . These are going to shock the world and bring people together . <br />Grab your popcorn , your unknowingly watching America heal ."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/iy0QuhUc47JI8QzwlF_vqx6r-gY\"",
+            "id": "Ugzulaax-F0w1rZQTkd4AaABAg.8uQn18jphmR94pCDxMf0sV"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 0,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOdpm984fqFo9rmspzP2M5w",
+            "authorDisplayName": "Don Cavallacci",
+            "updatedAt": "2020-02-03T21:57:44.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2020-02-03T21:57:44.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCOdpm984fqFo9rmspzP2M5w"
+            },
+            "canRate": true,
+            "textOriginal": "Agree or disagree with him - Shapiro is a sharp dude.   Makes clear points. \nRespect.",
+            "likeCount": 54,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyKDwpE93YcZwlIMaKVQ5k6lD6qIuTmfuzZ=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "Agree or disagree with him - Shapiro is a sharp dude.   Makes clear points. <br />Respect."
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/R1dwCKnWxKIAn9Zx8SSqz3adasE\"",
+          "id": "UgyE0YX6VFb4tDRQr4B4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/FUlmhhcXp4aJWS5QlhBAWWOcMQY\"",
+      "id": "UgyE0YX6VFb4tDRQr4B4AaABAg"
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 2,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNW781WXGPpI7LjeAm1_N5Q",
+            "authorDisplayName": "Phillip Shannon",
+            "updatedAt": "2020-01-09T01:38:09.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2020-01-09T01:38:09.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCNW781WXGPpI7LjeAm1_N5Q"
+            },
+            "canRate": true,
+            "textOriginal": "This is what political talks should look like. No rude interruptions, no \u201chow dare you\u201d or name calling. Both sides clearly stating their points and backing them. You dont have to agree to be understanding. Both left and right need to take a few pointers from these two.",
+            "likeCount": 233,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJztzTgV7yUJW6Tfx5LgrqiFuoudIj2L03Mszw=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "This is what political talks should look like. No rude interruptions, no \u201chow dare you\u201d or name calling. Both sides clearly stating their points and backing them. You dont have to agree to be understanding. Both left and right need to take a few pointers from these two."
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/oO_O9aJMGkNl8o-ZYyaGrlSyJPA\"",
+          "id": "UgwkkLyEqRY1h3xWQOV4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/VeSuUZRGSTKffrgBJcdmglkmHe0\"",
+      "id": "UgwkkLyEqRY1h3xWQOV4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCXHXR2N6EZ_pIF0GRixm_zA",
+              "authorDisplayName": "Noah Hughes",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-24T19:22:43.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCXHXR2N6EZ_pIF0GRixm_zA"
+              },
+              "parentId": "UgwkkLyEqRY1h3xWQOV4AaABAg",
+              "textOriginal": "I don't think you've ever debated in real life in that case. The only people I've ever encountered in real life that didn't make clear points and argue them well were weirdo righty-racist unionists. Never have I had a debate with a decent right winger or left winger that was full of ooga boogas, just people taking data as point or arguing their point well, in a civil manner. I do notice that I essentially always agree with anyone who is interpreting facts without any stupid spin or acknowledges hypocrisy. I do understand, however, that America is a very uncivil place. It has been worked into polarisation by it's elite, much like my Britain. Scotland is doing well at the least, so that's good. No Russians stealing our democracy. I wish luck to you (I assume you're American) in reclaiming discourse and instituting semi-direct democracy to protect your freedoms. I'm hoping for Scottish independence so I can help my country do the same! Carpe diem.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-24T19:22:43.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwP9DUkuz05SNZa9kv69V-YxUUuXBWgJX4InA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "I don&#39;t think you&#39;ve ever debated in real life in that case. The only people I&#39;ve ever encountered in real life that didn&#39;t make clear points and argue them well were weirdo righty-racist unionists. Never have I had a debate with a decent right winger or left winger that was full of ooga boogas, just people taking data as point or arguing their point well, in a civil manner. I do notice that I essentially always agree with anyone who is interpreting facts without any stupid spin or acknowledges hypocrisy. I do understand, however, that America is a very uncivil place. It has been worked into polarisation by it&#39;s elite, much like my Britain. Scotland is doing well at the least, so that&#39;s good. No Russians stealing our democracy. I wish luck to you (I assume you&#39;re American) in reclaiming discourse and instituting semi-direct democracy to protect your freedoms. I&#39;m hoping for Scottish independence so I can help my country do the same! Carpe diem."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/vSJZXKc0HCTE7btOQTmKvIn8yuk\"",
+            "id": "UgwkkLyEqRY1h3xWQOV4AaABAg.93YfZQ2PFtU95R0xqFXtkk"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCO6NlJwfVkrsFPtO1UUKBig",
+              "authorDisplayName": "Stan Anderson",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-09T22:52:31.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCO6NlJwfVkrsFPtO1UUKBig"
+              },
+              "parentId": "UgwkkLyEqRY1h3xWQOV4AaABAg",
+              "textOriginal": "You are absolutely correct.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-09T22:52:31.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzLiVY_UOtQXmlg4HhivDFRKWohS4iruI4qUg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "You are absolutely correct."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/BebGGIGUf1G38kTtmVufHbUOQjs\"",
+            "id": "UgwkkLyEqRY1h3xWQOV4AaABAg.93YfZQ2PFtU94pm2GLXu6W"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 1,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuFRF2bajlVtm8oMHcudqXg",
+            "authorDisplayName": "g G",
+            "updatedAt": "2020-01-04T20:45:10.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2020-01-04T20:45:10.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCuFRF2bajlVtm8oMHcudqXg"
+            },
+            "canRate": true,
+            "textOriginal": "Wow. Disagreement without yelling and name calling.",
+            "likeCount": 84,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJz9FJl2Gq1wNM66aNizfmLjrcY4er4r-uf1VQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "Wow. Disagreement without yelling and name calling."
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Um1Hd3UaXxuP4D0TC6aymKIOcUQ\"",
+          "id": "Ugz8Rs5g1pSYFQUoTIR4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/h74nKbV55ScsBNX-0R8RZc0GHTs\"",
+      "id": "Ugz8Rs5g1pSYFQUoTIR4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCoWe6FYpqoA-zr7Yav0YP8A",
+              "authorDisplayName": "Calvin Hikes",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-07T22:32:26.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCoWe6FYpqoA-zr7Yav0YP8A"
+              },
+              "parentId": "Ugz8Rs5g1pSYFQUoTIR4AaABAg",
+              "textOriginal": "It's not only completely unnecessary it makes it impossible to change anyone's mind. I'm happy to change my mind but not if somebody's yelling at me.",
+              "likeCount": 0,
+              "updatedAt": "2020-03-07T22:32:26.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzvuNb82zuzJTW1HUjs7bJ4CGq8Wv8hVM2iXA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "It&#39;s not only completely unnecessary it makes it impossible to change anyone&#39;s mind. I&#39;m happy to change my mind but not if somebody&#39;s yelling at me."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/kLhrc3jraaIoe4zmnSVscknFGLI\"",
+            "id": "Ugz8Rs5g1pSYFQUoTIR4AaABAg.93Nqr-l6kq995vGCs7U35f"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 6,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCYKyZcppHtVIFF3h4HaRGg",
+            "authorDisplayName": "Jessica Chey",
+            "updatedAt": "2019-12-14T23:23:55.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2019-12-14T23:23:55.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCCYKyZcppHtVIFF3h4HaRGg"
+            },
+            "canRate": true,
+            "textOriginal": "Has anyone noticed he\u2019s literally a political conservative young Sheldon lol",
+            "likeCount": 308,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzlLY_wGG5qFvrvBxcMrcCzRrgXvnmbtx5dDA=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "Has anyone noticed he\u2019s literally a political conservative young Sheldon lol"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/gXSiRhJMVH24V0BYwb1jyuUz5F8\"",
+          "id": "UgyWz7B73BNZ-YOme5N4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/YfTJG9t2kDcwA3YJixmJerJvoWM\"",
+      "id": "UgyWz7B73BNZ-YOme5N4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCWGts4YZBle5_rB7KLLyW_Q",
+              "authorDisplayName": "Euranis",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-07T05:33:46.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCWGts4YZBle5_rB7KLLyW_Q"
+              },
+              "parentId": "UgyWz7B73BNZ-YOme5N4AaABAg",
+              "textOriginal": "Wouldnt be surprised if he was an inspiration to the character.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-07T05:33:46.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyHayG5xBfxElMkIrPXEbqZ_DC1L4jTPDJ9lg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Wouldnt be surprised if he was an inspiration to the character."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/rGPDjVHCwpXQg2TF0Q_KToQD2QY\"",
+            "id": "UgyWz7B73BNZ-YOme5N4AaABAg.92Y3KQjSe0p94il_X2vC3p"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCBkQBhLevP_g4oVND4GlLHA",
+              "authorDisplayName": "REAL JAMAICAN R",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-02T22:59:56.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCBkQBhLevP_g4oVND4GlLHA"
+              },
+              "parentId": "UgyWz7B73BNZ-YOme5N4AaABAg",
+              "textOriginal": "\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+              "likeCount": 0,
+              "updatedAt": "2020-02-02T22:59:56.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzTc0iVYL637Phz3mdBEu17uuRLZ7-SoQX48w=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/rIx52dQIafQi2CUgULeRnZNTlqU\"",
+            "id": "UgyWz7B73BNZ-YOme5N4AaABAg.92Y3KQjSe0p94YlKTHqv-V"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCiyZW925urruHgLlAVa-M3w",
+              "authorDisplayName": "R",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-01-22T03:41:06.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCiyZW925urruHgLlAVa-M3w"
+              },
+              "parentId": "UgyWz7B73BNZ-YOme5N4AaABAg",
+              "textOriginal": "He would have played that role so well in the show LOL!",
+              "likeCount": 1,
+              "updatedAt": "2020-01-22T03:41:06.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwl76Nnsr66L7wI_jBgQ4V6ShghOMrmOw8zDQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "He would have played that role so well in the show LOL!"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/vgI1bzk5EB6vikJEF_MLs1atWV8\"",
+            "id": "UgyWz7B73BNZ-YOme5N4AaABAg.92Y3KQjSe0p944MyNmzGl6"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC24rNYRe_hTHCyFVCGn0xsg",
+              "authorDisplayName": "BR Pitre Peters",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-01-13T19:31:22.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC24rNYRe_hTHCyFVCGn0xsg"
+              },
+              "parentId": "UgyWz7B73BNZ-YOme5N4AaABAg",
+              "textOriginal": "Wow  you're right \nHe does sound like Sheldon",
+              "likeCount": 2,
+              "updatedAt": "2020-01-13T19:31:22.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzmNbQs-ignOAojbZfgl2hiRi1SvMhaGdUSoQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Wow  you&#39;re right <br />He does sound like Sheldon"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/xGmPTz8V_n9dDrwuushAoEoIsA4\"",
+            "id": "UgyWz7B73BNZ-YOme5N4AaABAg.92Y3KQjSe0p93jtZO_57SM"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCXoqhJobdiZKw-ZkYMQC3Bw",
+              "authorDisplayName": "biju joze",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2019-12-21T15:40:31.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCXoqhJobdiZKw-ZkYMQC3Bw"
+              },
+              "parentId": "UgyWz7B73BNZ-YOme5N4AaABAg",
+              "textOriginal": "So what",
+              "likeCount": 3,
+              "updatedAt": "2019-12-21T15:40:31.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxROH6kGzaKgHrEHfGsNqQr0qB7BH5MR1dZDg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "So what"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/_P1mIZYa3nRvEGPpUFNbBWrgqZU\"",
+            "id": "UgyWz7B73BNZ-YOme5N4AaABAg.92Y3KQjSe0p92oFrTXoI5z"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 265,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCEehmaHFUoLqeObSNH5bacg",
+            "authorDisplayName": "Jaden",
+            "updatedAt": "2017-12-10T15:16:57.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2017-12-10T15:16:57.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCEehmaHFUoLqeObSNH5bacg"
+            },
+            "canRate": true,
+            "textOriginal": "I fully support gay marriage, but you can't make a church or mosque host one if they don't want to.",
+            "likeCount": 4855,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJx3x6_G1LWQq-5EhXzS4tUifvifDEOJvD_7zg=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "I fully support gay marriage, but you can&#39;t make a church or mosque host one if they don&#39;t want to."
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/s9dm9r_uFomMYaQ--PRY_J3-_5A\"",
+          "id": "UgzO2QzNvEsG3z_NUqp4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/MOFKgXc_6FYOcJGCJv23z6iPReY\"",
+      "id": "UgzO2QzNvEsG3z_NUqp4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCuP8s7JKorxQku95OAvy4yA",
+              "authorDisplayName": "Alexandra Elizabeth",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-10T20:28:36.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCuP8s7JKorxQku95OAvy4yA"
+              },
+              "parentId": "UgzO2QzNvEsG3z_NUqp4AaABAg",
+              "textOriginal": "Exactly",
+              "likeCount": 0,
+              "updatedAt": "2020-03-10T20:28:36.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxSlG5wFFGUD9gJshClLNv03aPnlgxNQF1f5Q=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Exactly"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/MaUbMoUsR85IsTODyy575DaYEls\"",
+            "id": "UgzO2QzNvEsG3z_NUqp4AaABAg.8a-C7Wq9hwN961lQVUN-YL"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC0uPDT0uuwZp__wt1lwVr9g",
+              "authorDisplayName": "tin tin",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-06T09:19:18.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC0uPDT0uuwZp__wt1lwVr9g"
+              },
+              "parentId": "UgzO2QzNvEsG3z_NUqp4AaABAg",
+              "textOriginal": "Mosque host a gay wedding lmao .",
+              "likeCount": 0,
+              "updatedAt": "2020-03-06T09:19:18.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxTh0YMhOFV5EcSbMcnEPRLA090BJXEC9PVQw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Mosque host a gay wedding lmao ."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/5I2WIaQuvDVjJmZfqvQRaxXBZm0\"",
+            "id": "UgzO2QzNvEsG3z_NUqp4AaABAg.8a-C7Wq9hwN95rGdsNhyGH"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCjmpPvmH-Mre_07oHOReHDg",
+              "authorDisplayName": "Satea Khiangte",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-26T04:26:07.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCjmpPvmH-Mre_07oHOReHDg"
+              },
+              "parentId": "UgzO2QzNvEsG3z_NUqp4AaABAg",
+              "textOriginal": "@Random Name Well, I for one agree with Ben on this... there are others caterers out there who can provide them that service..... Is it good business idea to refuse service to certain people? No. But that's up to the business owners. If I were a caterer I would  cater to all paying customers as long as the environment is safe for me an my staff but that's just me and if the other guy refuse to do so more business for me.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-26T04:26:07.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJztiDcztERoDFBbMoe5SVLX3GByPj3T5Jc5Lw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Random Name Well, I for one agree with Ben on this... there are others caterers out there who can provide them that service..... Is it good business idea to refuse service to certain people? No. But that&#39;s up to the business owners. If I were a caterer I would  cater to all paying customers as long as the environment is safe for me an my staff but that&#39;s just me and if the other guy refuse to do so more business for me."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/u8Ph86bqmpt2kIdMV3nab8vS_PI\"",
+            "id": "UgzO2QzNvEsG3z_NUqp4AaABAg.8a-C7Wq9hwN95UZwfOpF9c"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC6PZNdSjlDO1ZTLrBYZuP4w",
+              "authorDisplayName": "J Salter",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-05T01:37:55.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC6PZNdSjlDO1ZTLrBYZuP4w"
+              },
+              "parentId": "UgzO2QzNvEsG3z_NUqp4AaABAg",
+              "textOriginal": "Random Name a private business can refuse service to anyone for any reason",
+              "likeCount": 0,
+              "updatedAt": "2020-02-05T01:37:55.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxg1o70BLLLTTL6U4u5zBJFAarTS8EGf6b8cQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Random Name a private business can refuse service to anyone for any reason"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/DWq47eIpts0SUbyupRQB8QyhdhQ\"",
+            "id": "UgzO2QzNvEsG3z_NUqp4AaABAg.8a-C7Wq9hwN94dC-OfOSgA"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCjMJ25alSRnwYvY7IDU2L4A",
+              "authorDisplayName": "itachileesan",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-01-31T07:45:03.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCjMJ25alSRnwYvY7IDU2L4A"
+              },
+              "parentId": "UgzO2QzNvEsG3z_NUqp4AaABAg",
+              "textOriginal": "as a gay guy I would never want anyone to be forced to marry me.",
+              "likeCount": 0,
+              "updatedAt": "2020-01-31T07:45:03.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwkwjTyaePjOIA1zfJ4cUp3iQMDQgzyvAovOA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "as a gay guy I would never want anyone to be forced to marry me."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/aaWEb1ag7HzqRcfk-8twRyXI94Q\"",
+            "id": "UgzO2QzNvEsG3z_NUqp4AaABAg.8a-C7Wq9hwN94Rz2-RBId-"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 21,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjogNEgIoMjjUd0GP0gbF4w",
+            "authorDisplayName": "Josh",
+            "updatedAt": "2019-11-20T20:11:42.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2019-11-20T20:11:33.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCjogNEgIoMjjUd0GP0gbF4w"
+            },
+            "canRate": true,
+            "textOriginal": "Imagine Ben talking about something that isn\u2019t political",
+            "likeCount": 254,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxMOma4b7rZBU96qg86lzW_S-CKqjbOY-RS8Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "Imagine Ben talking about something that isn\u2019t political"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Ee4m9cQUaKz1P_FxsCM5Ux1_dUw\"",
+          "id": "Ugznug5ukgXCAJNBf414AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/TygkNwEI975K4t4hr8L9KZT-t_U\"",
+      "id": "Ugznug5ukgXCAJNBf414AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC3EI4UNnpbKCZNPiMMXB1Cw",
+              "authorDisplayName": "BlackieChan KHD",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-27T09:22:51.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC3EI4UNnpbKCZNPiMMXB1Cw"
+              },
+              "parentId": "Ugznug5ukgXCAJNBf414AaABAg",
+              "textOriginal": "@Sub to me for no reason_ It's actually meme couch",
+              "likeCount": 0,
+              "updatedAt": "2020-02-27T09:22:51.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwUUg3tfYaQsHWt2MiEmQLwuHMNJecANz-Yaw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Sub to me for no reason_ It&#39;s actually meme couch"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/lnbWESiPSfG3nwEJz6iKdPN1EYE\"",
+            "id": "Ugznug5ukgXCAJNBf414AaABAg.91ZvEWDsasE95Xfgwa_JGB"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC_PvKF_pXyXdfBQFeXS-AvQ",
+              "authorDisplayName": "Pog Champ",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-26T00:12:05.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC_PvKF_pXyXdfBQFeXS-AvQ"
+              },
+              "parentId": "Ugznug5ukgXCAJNBf414AaABAg",
+              "textOriginal": "he talks about star wars sometimes",
+              "likeCount": 0,
+              "updatedAt": "2020-02-26T00:12:05.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxRZw873P-Y1bADBF3GPlfGLmo0LqyPf6VkMQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "he talks about star wars sometimes"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/b773-jsFxoYGCdfk76alqiL7rwg\"",
+            "id": "Ugznug5ukgXCAJNBf414AaABAg.91ZvEWDsasE95U6s13mSG5"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCXHXR2N6EZ_pIF0GRixm_zA",
+              "authorDisplayName": "Noah Hughes",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-24T19:13:11.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCXHXR2N6EZ_pIF0GRixm_zA"
+              },
+              "parentId": "Ugznug5ukgXCAJNBf414AaABAg",
+              "textOriginal": "Violin.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-24T19:13:11.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwP9DUkuz05SNZa9kv69V-YxUUuXBWgJX4InA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Violin."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/lJ11AKUxMp7eUaacbC0CqZfeprg\"",
+            "id": "Ugznug5ukgXCAJNBf414AaABAg.91ZvEWDsasE95R-s1QjMh8"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCbwQfC0vcjxBiIcque5FW-w",
+              "authorDisplayName": "Darryl Cashman",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-06T13:11:08.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCbwQfC0vcjxBiIcque5FW-w"
+              },
+              "parentId": "Ugznug5ukgXCAJNBf414AaABAg",
+              "textOriginal": "He's sleeping then",
+              "likeCount": 0,
+              "updatedAt": "2020-02-06T13:11:08.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxrluRa5MHRgxSXy7NXGE-uox0Uw2s8EXFKVg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "He&#39;s sleeping then"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/lSeS9SKUG_tDq-Ja2w_JPAwy6T4\"",
+            "id": "Ugznug5ukgXCAJNBf414AaABAg.91ZvEWDsasE94h07Y4lWlR"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCjp9IiNST1-ZQeuROckIZdQ",
+              "authorDisplayName": "Sgt Palooggoo",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-03T16:57:55.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCjp9IiNST1-ZQeuROckIZdQ"
+              },
+              "parentId": "Ugznug5ukgXCAJNBf414AaABAg",
+              "textOriginal": "I can't picture it",
+              "likeCount": 0,
+              "updatedAt": "2020-02-03T16:57:55.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzzjvUyqrBDnoL24_RMJUmxX9JDSl0Yy677-A=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "I can&#39;t picture it"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/t6SBmQ4PGoLnCQGoohRbxqH3HrI\"",
+            "id": "Ugznug5ukgXCAJNBf414AaABAg.91ZvEWDsasE94_ggryMYKD"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 1,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0eaI1dF8DPQeUiljTjASDA",
+            "authorDisplayName": "Mr. Rabbit",
+            "updatedAt": "2020-02-18T07:08:07.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2020-02-18T07:08:07.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UC0eaI1dF8DPQeUiljTjASDA"
+            },
+            "canRate": true,
+            "textOriginal": "Liberals: *Exists*\n\n\n\nBen Shapiro: *So you have chosen DEATH*",
+            "likeCount": 12,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwAhPHQg-tCWBqwZJjb-prb5LoSNohRFHAN0g=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "Liberals: <b>Exists</b><br /><br /><br /><br />Ben Shapiro: <b>So you have chosen DEATH</b>"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/wI6f6MZ420Ga4XvH47_1Su7ja8E\"",
+          "id": "Ugyb76NNjktIB_Eoi5h4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/0hm0NlyMi9I8k3lk1Z1pHHydJBA\"",
+      "id": "Ugyb76NNjktIB_Eoi5h4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCnaBiUwIO1zeOLfVKquYM5Q",
+              "authorDisplayName": "lucas Hernandez",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-10T02:37:05.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCnaBiUwIO1zeOLfVKquYM5Q"
+              },
+              "parentId": "Ugyb76NNjktIB_Eoi5h4AaABAg",
+              "textOriginal": "TRUE",
+              "likeCount": 0,
+              "updatedAt": "2020-03-10T02:37:05.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJw2zErp7Ox4O5XeXBgGzC0XZDuHDdkYW3W3Hw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "TRUE"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/K_BcZDax5I3SWMCEOZPvoTGv32k\"",
+            "id": "Ugyb76NNjktIB_Eoi5h4AaABAg.95AG76qMfFl96-qnU5_hwf"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 19,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtxuNBTDEAQguO5dsuSjkQA",
+            "authorDisplayName": "David Rose",
+            "updatedAt": "2019-12-06T19:57:05.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2019-12-06T19:57:05.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCtxuNBTDEAQguO5dsuSjkQA"
+            },
+            "canRate": true,
+            "textOriginal": "\"I'm not big on caring.\" Gotta love that Ben. He speaks his mind without any constraints!",
+            "likeCount": 259,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyE7KKxFRDV2vxiTaNe71_EkraIe38l-dOdoA=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "&quot;I&#39;m not big on caring.&quot; Gotta love that Ben. He speaks his mind without any constraints!"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/6izrYMx2gGm6yhOESU3IOSk2Ue8\"",
+          "id": "UgwG2rGPU5N0XJfw9JZ4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Ue6nL_91ndZ3aVjCZfsicveukmA\"",
+      "id": "UgwG2rGPU5N0XJfw9JZ4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCwR7LP0_f1KA0U0zuEx0cxw",
+              "authorDisplayName": "MissLadyG99",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-28T03:48:22.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCwR7LP0_f1KA0U0zuEx0cxw"
+              },
+              "parentId": "UgwG2rGPU5N0XJfw9JZ4AaABAg",
+              "textOriginal": "\"I'm not big on crying\"",
+              "likeCount": 0,
+              "updatedAt": "2020-02-28T03:48:22.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwduu0MXfAugVxJvxyJIH3lU7iWw5V6bPU3-g=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "&quot;I&#39;m not big on crying&quot;"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/y0WcFHikCBBq3U2us2X8Fhpwc8k\"",
+            "id": "UgwG2rGPU5N0XJfw9JZ4AaABAg.92D5IXsDQ_G95ZeCwIBhFI"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCl8RkQe4dUn3MiJoQSEWzSQ",
+              "authorDisplayName": "Duck Fucker",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-10T08:34:17.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCl8RkQe4dUn3MiJoQSEWzSQ"
+              },
+              "parentId": "UgwG2rGPU5N0XJfw9JZ4AaABAg",
+              "textOriginal": "@B T bitch your body ain't a husk in the womb",
+              "likeCount": 0,
+              "updatedAt": "2020-02-10T08:34:17.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxU2ua7ga6CjK5jgEBQx9bYM20SAaZ4CouTPA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@B T bitch your body ain&#39;t a husk in the womb"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/fymSdZ1JBNMwvtgQ_sbkRj_cBq8\"",
+            "id": "UgwG2rGPU5N0XJfw9JZ4AaABAg.92D5IXsDQ_G94qocMzIIpw"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCMVuBSG5jo-IIOn_z19WsmQ",
+              "authorDisplayName": "B T",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-10T05:44:25.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCMVuBSG5jo-IIOn_z19WsmQ"
+              },
+              "parentId": "UgwG2rGPU5N0XJfw9JZ4AaABAg",
+              "textOriginal": "@YLS FAD3 A person is more then DNA. That is biology. Where is the spirit??! It enters at birth. I am against abortion.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-10T05:44:25.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyXTrKWSO7-TAl5jn4ut46Tcu11PdvQ-LMYkg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@YLS FAD3 A person is more then DNA. That is biology. Where is the spirit??! It enters at birth. I am against abortion."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/6lcJfvHvO1g9zmdtNy0ZNqNtqG4\"",
+            "id": "UgwG2rGPU5N0XJfw9JZ4AaABAg.92D5IXsDQ_G94qWBBz0cE6"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC73Rasu8xfJ3Md_xsQRy_rw",
+              "authorDisplayName": "M Tooth",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-09T02:52:25.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC73Rasu8xfJ3Md_xsQRy_rw"
+              },
+              "parentId": "UgwG2rGPU5N0XJfw9JZ4AaABAg",
+              "textOriginal": "David Rose I gotta remember that.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-09T02:52:25.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyu1UomRCtV0d4BIUYdMxEQtNlrbHhhUulNjw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "David Rose I gotta remember that."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/k4f57vrgt5BgyM9kwz_S581GDXk\"",
+            "id": "UgwG2rGPU5N0XJfw9JZ4AaABAg.92D5IXsDQ_G94nchTj1HYT"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 5,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UCY-D0IBKMt_anp1nDQepRRw",
+            "authorDisplayName": "Nero",
+            "updatedAt": "2020-01-10T18:26:42.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2020-01-10T18:26:42.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UCY-D0IBKMt_anp1nDQepRRw"
+            },
+            "canRate": true,
+            "textOriginal": "\u201cThere\u2019s no values to math!\u201d\nWait a minute... that ain\u2019t right",
+            "likeCount": 82,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJx7mwBlSvbemx6HuK-2Dh-HocsvNWVIJNh_Sg=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "\u201cThere\u2019s no values to math!\u201d<br />Wait a minute... that ain\u2019t right"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/8EgOfwuMQXOSdKgwy2gGp4H23o8\"",
+          "id": "Ugw7L0-40EU7cgjRF7B4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/RFkDZW2wvWFKEDRbl2B5H0VkNYc\"",
+      "id": "Ugw7L0-40EU7cgjRF7B4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC5JvGjJpmG-4qE7w1P_sZDQ",
+              "authorDisplayName": "Jesus",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-08T13:04:48.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC5JvGjJpmG-4qE7w1P_sZDQ"
+              },
+              "parentId": "Ugw7L0-40EU7cgjRF7B4AaABAg",
+              "textOriginal": "@Kazzana r/whoosh",
+              "likeCount": 0,
+              "updatedAt": "2020-03-08T13:04:48.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxIJOG2eRk4aNiPbxih1TT1SxEXBdvdMioyKg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Kazzana r/whoosh"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/1kuxXG7HgwIxBY7XtHAuKgnrR60\"",
+            "id": "Ugw7L0-40EU7cgjRF7B4AaABAg.93c2m5LHzia95wp2DPW1Kj"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC1Lh7btBL9fPftE0wiD_bBg",
+              "authorDisplayName": "123telamon",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-03T05:58:50.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC1Lh7btBL9fPftE0wiD_bBg"
+              },
+              "parentId": "Ugw7L0-40EU7cgjRF7B4AaABAg",
+              "textOriginal": "@Nero oh damn, i wasnt sure, there is so many stupid people that its hard  to know if you joking or being serious xdd",
+              "likeCount": 2,
+              "updatedAt": "2020-02-03T05:58:50.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxmPXHszzWTftobsMBo4J9pSmq-OAGRmnWcxQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@Nero oh damn, i wasnt sure, there is so many stupid people that its hard  to know if you joking or being serious xdd"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/QH1aiiDLhkWm0TV2UnAeYThMJNY\"",
+            "id": "Ugw7L0-40EU7cgjRF7B4AaABAg.93c2m5LHzia94ZWGb7BsUJ"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCMin6J7SPLvVhS5nB1cm_1g",
+              "authorDisplayName": "Adrian247",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-01-22T19:23:54.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCMin6J7SPLvVhS5nB1cm_1g"
+              },
+              "parentId": "Ugw7L0-40EU7cgjRF7B4AaABAg",
+              "textOriginal": "Nero I see what u did there \ud83d\ude02",
+              "likeCount": 1,
+              "updatedAt": "2020-01-22T19:23:54.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJySmIB8a_-_nNVYcD9K1uQgDgwdHPggGWjnJw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Nero I see what u did there \ud83d\ude02"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/O-QPiHNVsO4h9sJp-GEyZcAASW4\"",
+            "id": "Ugw7L0-40EU7cgjRF7B4AaABAg.93c2m5LHzia9462rd4NXbt"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCY-D0IBKMt_anp1nDQepRRw",
+              "authorDisplayName": "Nero",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-01-16T01:17:13.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCY-D0IBKMt_anp1nDQepRRw"
+              },
+              "parentId": "Ugw7L0-40EU7cgjRF7B4AaABAg",
+              "textOriginal": "Kazzana Yes I realize that, this is just a joke. \ud83d\ude04",
+              "likeCount": 13,
+              "updatedAt": "2020-01-16T01:17:13.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJx7mwBlSvbemx6HuK-2Dh-HocsvNWVIJNh_Sg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Kazzana Yes I realize that, this is just a joke. \ud83d\ude04"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/H-zGhFXJxenPrqgEhnjazU2yynI\"",
+            "id": "Ugw7L0-40EU7cgjRF7B4AaABAg.93c2m5LHzia93pejG9YJeF"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCiGc9Hp7lN2MATWpCLBL8SA",
+              "authorDisplayName": "Kazzana",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-01-16T01:00:32.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCiGc9Hp7lN2MATWpCLBL8SA"
+              },
+              "parentId": "Ugw7L0-40EU7cgjRF7B4AaABAg",
+              "textOriginal": "I think he was trying to state there is no moral value to math, not numerical value.",
+              "likeCount": 8,
+              "updatedAt": "2020-01-16T01:00:32.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyOS78etuFgIrU8bDjtdNd3qCFdxs6rf_K7Wg=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "I think he was trying to state there is no moral value to math, not numerical value."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/YcpL1NlR7U8akWdGv3nBRp31rMQ\"",
+            "id": "Ugw7L0-40EU7cgjRF7B4AaABAg.93c2m5LHzia93pcp1DaoDm"
+          }
+        ]
+      }
+    },
+    {
+      "snippet": {
+        "totalReplyCount": 96,
+        "canReply": true,
+        "topLevelComment": {
+          "snippet": {
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2QjYwZCnlnF_xl9MPEQWSg",
+            "authorDisplayName": "Brandon FPV",
+            "updatedAt": "2018-11-27T03:25:47.000Z",
+            "videoId": "1rQ_mphb7HU",
+            "publishedAt": "2018-11-27T03:25:47.000Z",
+            "viewerRating": "none",
+            "authorChannelId": {
+              "value": "UC2QjYwZCnlnF_xl9MPEQWSg"
+            },
+            "canRate": true,
+            "textOriginal": "imagine ben shapiros wife trying to argue with him...lol",
+            "likeCount": 2606,
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJz7YOx8tga-s2cvI8uikXb4UXsgfx68OWEioA=s48-c-k-c0xffffffff-no-rj-mo",
+            "textDisplay": "imagine ben shapiros wife trying to argue with him...lol"
+          },
+          "kind": "youtube#comment",
+          "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/D8DA_8co4NVyORT5Z97W0wIBwrc\"",
+          "id": "UgwkhBYCvEgOrW6YjBl4AaABAg"
+        },
+        "videoId": "1rQ_mphb7HU",
+        "isPublic": true
+      },
+      "kind": "youtube#commentThread",
+      "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/eQ-nwMvHU14jK4JPnum6r8vDbm4\"",
+      "id": "UgwkhBYCvEgOrW6YjBl4AaABAg",
+      "replies": {
+        "comments": [
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCOgbgNAS9YkF329KdIphVBQ",
+              "authorDisplayName": "Realgrower",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-03-04T03:13:52.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCOgbgNAS9YkF329KdIphVBQ"
+              },
+              "parentId": "UgwkhBYCvEgOrW6YjBl4AaABAg",
+              "textOriginal": "Imagine if that comment wasnt on here over and over again.",
+              "likeCount": 0,
+              "updatedAt": "2020-03-04T03:13:52.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwfgPkWi3VXrpEyWd8vIe7sbaE8VHmYfCrkEQ=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Imagine if that comment wasnt on here over and over again."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/9ONIbcEIPS5Wc58yIAm2MBSlYt0\"",
+            "id": "UgwkhBYCvEgOrW6YjBl4AaABAg.8o8IYiqaQ-c95lTE_Jq9Af"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCcoOx0-_SBlIVBYnoHA3FIQ",
+              "authorDisplayName": "Neil Schroeder",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-08T18:56:54.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCcoOx0-_SBlIVBYnoHA3FIQ"
+              },
+              "parentId": "UgwkhBYCvEgOrW6YjBl4AaABAg",
+              "textOriginal": "Her voice is probably deeper.",
+              "likeCount": 0,
+              "updatedAt": "2020-02-08T18:56:54.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJx8Otj7Ew0vwak2K0r_5Vx2aIWzppbcnloR_w=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Her voice is probably deeper."
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/1N98ycIjDB9cm1M5T-YhZb07K8I\"",
+            "id": "UgwkhBYCvEgOrW6YjBl4AaABAg.8o8IYiqaQ-c94mmHlWnQDV"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCpJSB5_SL6a4CP0yKJgUI8w",
+              "authorDisplayName": "DJ Ryde",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-03T08:05:52.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCpJSB5_SL6a4CP0yKJgUI8w"
+              },
+              "parentId": "UgwkhBYCvEgOrW6YjBl4AaABAg",
+              "textOriginal": "@xXyasabeXx I'm pretty sure they respect each other \ud83d\udc4d\ud83c\udffc",
+              "likeCount": 0,
+              "updatedAt": "2020-02-03T08:05:52.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJz2yDQE93H-5uAsOZLTQOskNeuPsdihc7GNOw=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "@xXyasabeXx I&#39;m pretty sure they respect each other \ud83d\udc4d\ud83c\udffc"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/cUmdF8Tr5KSHO_fBo88CRu43CnA\"",
+            "id": "UgwkhBYCvEgOrW6YjBl4AaABAg.8o8IYiqaQ-c94Zjo67f5jW"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UCSuJRtclx8Zpohcr1sI3oZg",
+              "authorDisplayName": "Don White",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-02T23:09:25.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UCSuJRtclx8Zpohcr1sI3oZg"
+              },
+              "parentId": "UgwkhBYCvEgOrW6YjBl4AaABAg",
+              "textOriginal": "She must be good at it!",
+              "likeCount": 0,
+              "updatedAt": "2020-02-02T23:09:25.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzT-SQYjB0hGQ3DEiooZc1vLLNz5lQsZvCzlA=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "She must be good at it!"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/G6nv8wnMgbO1jePqREh4MOVg73k\"",
+            "id": "UgwkhBYCvEgOrW6YjBl4AaABAg.8o8IYiqaQ-c94YmPyt61AV"
+          },
+          {
+            "snippet": {
+              "authorChannelUrl": "http://www.youtube.com/channel/UC_4WW3Q1BqSWcS9-Jpwsejg",
+              "authorDisplayName": "WhiteChocolateMocha",
+              "canRate": true,
+              "videoId": "1rQ_mphb7HU",
+              "publishedAt": "2020-02-02T11:53:16.000Z",
+              "viewerRating": "none",
+              "authorChannelId": {
+                "value": "UC_4WW3Q1BqSWcS9-Jpwsejg"
+              },
+              "parentId": "UgwkhBYCvEgOrW6YjBl4AaABAg",
+              "textOriginal": "Ben: hdyeheuue eheujkenje elk juhuuh mpslmioj junnnywj djdijdjdjej \nWife:'U confuse me again , no pussy for u for a week '",
+              "likeCount": 0,
+              "updatedAt": "2020-02-02T11:53:16.000Z",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzHQRXO8oXlvD9ei90aUPkS7LHPaWYxLhZn=s48-c-k-c0xffffffff-no-rj-mo",
+              "textDisplay": "Ben: hdyeheuue eheujkenje elk juhuuh mpslmioj junnnywj djdijdjdjej <br />Wife:&#39;U confuse me again , no pussy for u for a week &#39;"
+            },
+            "kind": "youtube#comment",
+            "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/q8afcpH8ms_C1eVyvJJq92J8jNA\"",
+            "id": "UgwkhBYCvEgOrW6YjBl4AaABAg.8o8IYiqaQ-c94X_1k1DOt0"
+          }
+        ]
+      }
+    }
+  ],
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/iAYmRCow7o04xidUjkvG5TcYtKg\"",
+  "pageInfo": {
+    "resultsPerPage": 20,
+    "totalResults": 20
+  }
+}

@@ -3,51 +3,116 @@ import json
 import pymongo
 import datetime
 
+try:
+    import queue
+except ImportError:
+    import Queue as queue
+	
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 scopes = ["https://www.googleapis.com/auth/youtube.force-ssl"]
 
-DEVELOPER_KEY = 'AIzaSyDpzCbGo6uh952cwFykYKDzwJ4gBMuG4pM'
+DEVELOPER_KEY = 'AIzaSyB_V6J8JnB-HZ01CwflEtrcDfjqJQtqurg'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
-BASE_VIDEO_ID = "pzjnJjsjSIo"
+BASE_VIDEO_ID = "1rQ_mphb7HU"
 
 YOUTUBE = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
 CLIENT = pymongo.MongoClient("mongodb://py-user:pyuser1@cluster0-shard-00-00-gm9y9.mongodb.net:27017,cluster0-shard-00-01-gm9y9.mongodb.net:27017,cluster0-shard-00-02-gm9y9.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority")
 DB = CLIENT['Cluster0']
+COL = DB['posts']
+
+NUM_VIDS = 40
 
 class Video:
-	def __init__(self,videoID):
+	def __init__(self, videoID, data, flag):
 
-		vidInfo = vid_info_request(videoID)
+		if flag == 0:
+			vidInfo = vid_info_request(videoID)
 
-		self.id = vidInfo[0]
-		self.title = vidInfo[1]
-		self.description = vidInfo[2]
-		self.channelID = vidInfo[3]
-		self.tags = vidInfo[4]
-		self.categoryID = vidInfo[5]
-		self.recs = fill_recs(self.id)
-		self.comments = fill_comments(self.id)
+			self.id = vidInfo[0]
+			self.title = vidInfo[1]
+			self.description = vidInfo[2]
+			self.channelID = vidInfo[3]
+			self.tags = vidInfo[4]
+			self.categoryID = vidInfo[5]
+			self.recs = fill_recs(self.id)
+
+			try:
+				self.comments = fill_comments(self.id)
+			except:
+				self.comments = []	
+
+		elif flag == 1:	
+			self.id = data["id"]
+			self.title = data["title"]
+			self.description = data["description"]
+			self.channelID = data["channelID"]
+			self.tags = data["tags"]
+			self.categoryID = data["categoryID"]
+			self.recs = data["recs"]	
 
 
 	def toString(self):
 		rec_list = [x[0] for x in self.recs]
 		return "_______________________________________________\n\nTITLE\n" + self.title + "\n\nDESCRIPTION\n" + self.description + "\n\nCHANNEL\n" + self.channelID + "\n\nTAGS\n" + "[" + ",".join(self.tags) + "]" + "\n\nCATEGORY ID\n" + self.categoryID + "\n\nRECOMMENDED VIDEO IDS\n" + "[" + ",".join(rec_list) + "]\n_______________________________________________"
 
-def insertVideotoDB(vid):
+def vid_info_request(videoID):
 
-	post = {"title": vid.title,
+	print("Getting vid info for ID ")
+	print(videoID)
+	print("\n")
+
+	vidInfo = []
+
+	request = YOUTUBE.videos().list(
+        part="snippet",
+        id=videoID
+    )
+	response = request.execute()
+
+	vidInfo.append(videoID)
+	vidInfo.append(response["items"][0]["snippet"]["title"])
+	vidInfo.append(response["items"][0]["snippet"]["description"])
+	vidInfo.append(response["items"][0]["snippet"]["channelTitle"])
+
+	try:
+		vidInfo.append(response["items"][0]["snippet"]["tags"])
+	except:
+		vidInfo.append([])
+
+	vidInfo.append(response["items"][0]["snippet"]["categoryId"])
+
+	return vidInfo
+
+def vidToJSON(vid):
+	return {
+	     "id": vid.id,
+		 "title": vid.title,
          "description": vid.description,
 		 "channelID" : vid.channelID,
          "tags": vid.tags,
 		 "categoryID" : vid.categoryID,
 		 "recs" : vid.recs,
 		 "comments" : vid.comments,
-         "date": datetime.datetime.utcnow()}
+         }
 
+def vidToJSON_forDB(vid):
+	return {
+	     "id": vid.id,
+		 "title": vid.title,
+         "description": vid.description,
+		 "channelID" : vid.channelID,
+         "tags": vid.tags,
+		 "categoryID" : vid.categoryID,
+		 "recs" : vid.recs,
+		 "comments" : vid.comments,
+		 "date" : datetime.datetime.utcnow()
+         }
+
+def insertVideotoDB(vid):
 	posts = DB.posts
-	return posts.insert_one(post).inserted_id
+	return posts.insert_one(vidToJSON_forDB(vid)).inserted_id
 
 
 def fill_recs(parentID):
@@ -79,10 +144,12 @@ def fill_comments(videoID):
 	response = comments_request(videoID)
 
 	for part in response["items"]:
-		cmts.append(part["snippet"]["topLevelComment"]["snippet"]["textOriginal"])
+		try:
+			cmts.append(part["snippet"]["topLevelComment"]["snippet"]["textOriginal"])
+		except:
+			cmts.append([])
 
 	return cmts
-
 
 def comments_request(videoID):
 	request = YOUTUBE.commentThreads().list(
@@ -92,24 +159,59 @@ def comments_request(videoID):
     )
 	return request.execute()
 
-def vid_info_request(videoID):
+def get_video_info_and_add_to_DB(videoID):
+	v1 = Video(videoID, [], 0)
+	v1Info = v1.toString()
+	print(insertVideotoDB(v1))
+	return v1
 
-	vidInfo = []
+def level_order_traversal(videoID):
+	count = 0
 
-	request = YOUTUBE.videos().list(
-        part="snippet",
-        id=videoID
-    )
-	response = request.execute()
+	q = queue.Queue()
+	fileToQueue(q)
+	
+	q.put(videoID)
+	print('Added parent to queue and DB')
+	print(videoID)
 
-	vidInfo.append(videoID)
-	vidInfo.append(response["items"][0]["snippet"]["title"])
-	vidInfo.append(response["items"][0]["snippet"]["description"])
-	vidInfo.append(response["items"][0]["snippet"]["channelTitle"])
-	vidInfo.append(response["items"][0]["snippet"]["tags"])
-	vidInfo.append(response["items"][0]["snippet"]["categoryId"])
+	while(count < NUM_VIDS):
+		parentID = q.get()
+		parentVid = get_video_info_and_add_to_DB(parentID)
+		print('Removed parent from q')
+		childrenList = parentVid.recs
 
-	return vidInfo
+		for child in childrenList:
+			q.put(child[1])	
+			print('Added child to q')
+			print(child[1])
+			print("\n\n")
+
+		count+=1
+
+	queueToFile(q)
+
+def queueToFile(q):
+	while(True):
+		try:
+			vid = q.get_nowait()
+			
+			jsonVid = vidToJSON(vid)
+			with open('queue.json', 'w') as fp:
+				json.dump(jsonVid, fp, indent=2, separators=(',', ': '))
+		except:
+			break
+
+def fileToQueue(q):
+	with open('queue.json', 'r') as fp:
+		try:
+			data = json.load(fp)
+		except:
+			return q
+		print(data)
+		for video in data:
+			q.put(Video("fake", data, 1))
+	
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
@@ -117,16 +219,7 @@ if __name__ == '__main__':
 	parser.add_argument('--max-results', help='Max results', default=25)
 	args = parser.parse_args()
 
-	# CLIENT.list_database_names()
-
 	try:
-		v1 = Video(BASE_VIDEO_ID)
-		v1Info = v1.toString()
-
-		print(insertVideotoDB(v1))
-
-		with open('output.txt', 'w') as fp:
-			fp.write(v1Info.encode('utf8'))
-			
+		level_order_traversal("1rQ_mphb7HU")
 	except HttpError, e:
 		print 'An HTTP error %d occurred:\n%s' % (e.resp.status, e.content)
