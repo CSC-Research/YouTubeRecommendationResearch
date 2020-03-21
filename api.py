@@ -3,6 +3,8 @@ import json
 import pymongo
 import datetime
 
+# repeat videos - do not repeat videos in DB
+
 try:
     import queue
 except ImportError:
@@ -23,6 +25,8 @@ DB = CLIENT['Cluster0']
 COL = DB['posts']
 
 NUM_VIDS = 40
+
+q = queue.Queue()
 
 class Video:
 	def __init__(self, videoID, data, flag):
@@ -65,11 +69,16 @@ def vid_info_request(videoID):
 
 	vidInfo = []
 
-	request = YOUTUBE.videos().list(
-        part="snippet",
-        id=videoID
-    )
-	response = request.execute()
+	try:
+		request = YOUTUBE.videos().list(
+			part="snippet",
+			id=videoID
+		)
+		response = request.execute()
+	except:
+		print("API quota exceeded on vid_info_request")
+		addVideoToTopOfQueue(videoID)
+
 
 	vidInfo.append(videoID)
 	vidInfo.append(response["items"][0]["snippet"]["title"])
@@ -112,7 +121,12 @@ def vidToJSON_forDB(vid):
 
 def insertVideotoDB(vid):
 	posts = DB.posts
-	return posts.insert_one(vidToJSON_forDB(vid)).inserted_id
+
+	try:
+		return posts.insert_one(vidToJSON_forDB(vid)).inserted_id
+	except:
+		print("Error when inserting to DB (insertVideotoDB)")
+		addVideoToTopOfQueue(vid.id)
 
 
 def fill_recs(parentID):
@@ -127,17 +141,20 @@ def fill_recs(parentID):
 	return recs
 
 def recs_request(videoID):
-	request = YOUTUBE.search().list(
-		part="id,snippet",
-		maxResults=30,
-		order="relevance",
-		q="",
-		relatedToVideoId=videoID,
-		safeSearch="none",
-		type="video"
-	)
-
-	return request.execute()
+	try:
+		request = YOUTUBE.search().list(
+			part="id,snippet",
+			maxResults=30,
+			order="relevance",
+			q="",
+			relatedToVideoId=videoID,
+			safeSearch="none",
+			type="video"
+		)
+		return request.execute()
+	except:
+		print("API quota exceeded on recs_request")
+		addVideoToTopOfQueue(videoID)
 
 def fill_comments(videoID):
 	cmts = []
@@ -151,13 +168,33 @@ def fill_comments(videoID):
 
 	return cmts
 
+def addVideoToTopOfQueue(videoID):
+	q2 = queue.Queue()
+	q2.put(videoID)
+
+	for item in q:
+		q2.put(item)
+		
+	queueToFile(q2)
+
 def comments_request(videoID):
+
 	request = YOUTUBE.commentThreads().list(
-        part="snippet,replies",
+		part="snippet,replies",
 		order="relevance",
-        videoId=videoID
-    )
-	return request.execute()
+		videoId=videoID
+	)
+	response = request.execute()
+
+	print("here is the resp")
+	print(response)
+
+	if(response["error"]["errors"][0]["domain"] == "usageLimits"):
+		print("API quota exceeded on comments_request")
+		addVideoToTopOfQueue(videoID)
+	else:
+		print("Video " + videoID + " has no comments")
+
 
 def get_video_info_and_add_to_DB(videoID):
 	v1 = Video(videoID, [], 0)
@@ -166,30 +203,29 @@ def get_video_info_and_add_to_DB(videoID):
 	return v1
 
 def level_order_traversal(videoID):
-	count = 0
+	count = 10000
 
-	q = queue.Queue()
 	fileToQueue(q)
 	
-	q.put(videoID)
-	print('Added parent to queue and DB')
-	print(videoID)
+	# q.put(videoID)
 
-	while(count < NUM_VIDS):
+	while(count > 0):
 		parentID = q.get()
-		parentVid = get_video_info_and_add_to_DB(parentID)
-		print('Removed parent from q')
-		childrenList = parentVid.recs
 
-		for child in childrenList:
-			q.put(child[1])	
-			print('Added child to q')
-			print(child[1])
-			print("\n\n")
+		myquery = {"id": parentID}
+		mydoc = COL.find(myquery)
 
-		count+=1
+		if(mydoc.count() == 0):
+			parentVid = get_video_info_and_add_to_DB(parentID)
+			print('Removed parent from q')
+			childrenList = parentVid.recs
 
-	queueToFile(q)
+			for child in childrenList:
+				q.put(child[1])	
+				print('Added child to q')
+				print(child[1])
+				print("\n\n")
+
 
 def queueToFile(q):
 	while(True):
@@ -220,6 +256,8 @@ if __name__ == '__main__':
 	args = parser.parse_args()
 
 	try:
-		level_order_traversal("1rQ_mphb7HU")
+		# level_order_traversal("1rQ_mphb7HU")
+		val = comments_request("PLcE5xa4MnI")
+		print(val)
 	except HttpError, e:
 		print 'An HTTP error %d occurred:\n%s' % (e.resp.status, e.content)

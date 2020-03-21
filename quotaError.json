@@ -1,0 +1,14 @@
+An HTTP error 403 occurred:
+{
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",    "reason": "dailyLimitExceeded",
+    "message": "Daily Limit Exceeded. The quota will be reset at midnight Pacific Time (PT). You may monitor your quota usage and adjust limits in the API Console: https://console.developers.google.com/apis/api/youtube.googleapis.com/quotas?project=515805831339",
+    "extendedHelp": "https://console.developers.google.com/apis/api/youtube.googleapis.com/quotas?project=515805831339"
+   }
+  ],
+  "code": 403,  "message": "Daily Limit Exceeded. The quota will be reset at midnight Pacific Time (PT). You may monitor your quota usage and adjust limits in the API Console: https://console.developers.google.com/apis/api/youtube.googleapis.com/quotas?project=515805831339"
+ }
+}
+
