@@ -24,7 +24,7 @@ CLIENT = pymongo.MongoClient("mongodb://py-user:pyuser1@cluster0-shard-00-00-gm9
 DB = CLIENT['Cluster0']
 COL = DB['posts']
 
-NUM_VIDS = 40
+NUM_VIDS = 100000
 
 q = queue.Queue()
 
@@ -171,29 +171,28 @@ def fill_comments(videoID):
 def addVideoToTopOfQueue(videoID):
 	q2 = queue.Queue()
 	q2.put(videoID)
-
-	for item in q:
-		q2.put(item)
+	while (not q.empty()):
+		id = ''
+		try:
+			id = q.get()
+			q2.put(item)
+		except:
+			break
 		
 	queueToFile(q2)
 
 def comments_request(videoID):
 
-	request = YOUTUBE.commentThreads().list(
-		part="snippet,replies",
-		order="relevance",
-		videoId=videoID
-	)
-	response = request.execute()
-
-	print("here is the resp")
-	print(response)
-
-	if(response["error"]["errors"][0]["domain"] == "usageLimits"):
-		print("API quota exceeded on comments_request")
-		addVideoToTopOfQueue(videoID)
-	else:
-		print("Video " + videoID + " has no comments")
+	try:
+		request = YOUTUBE.commentThreads().list(
+			part="snippet,replies",
+			order="relevance",
+			videoId=videoID
+		)
+		response = request.execute()
+		return response
+	except:
+		return []
 
 
 def get_video_info_and_add_to_DB(videoID):
@@ -203,21 +202,24 @@ def get_video_info_and_add_to_DB(videoID):
 	return v1
 
 def level_order_traversal(videoID):
-	count = 10000
+	count = 0
 
 	fileToQueue(q)
 	
 	# q.put(videoID)
 
-	while(count > 0):
-		parentID = q.get()
+	while(count <= NUM_VIDS):
+		print("count: ")
+		print(count)
+		parentID = q.get().strip()
+		print("Removed parent from q")
 
 		myquery = {"id": parentID}
 		mydoc = COL.find(myquery)
 
 		if(mydoc.count() == 0):
 			parentVid = get_video_info_and_add_to_DB(parentID)
-			print('Removed parent from q')
+			print('Added parent to DB')
 			childrenList = parentVid.recs
 
 			for child in childrenList:
@@ -226,27 +228,29 @@ def level_order_traversal(videoID):
 				print(child[1])
 				print("\n\n")
 
+		count += 1
+
+	queueToFile(q)	
+
 
 def queueToFile(q):
 	while(True):
 		try:
-			vid = q.get_nowait()
+			vid = q.get_nowait().strip()
+			print(vid)
 			
-			jsonVid = vidToJSON(vid)
-			with open('queue.json', 'w') as fp:
-				json.dump(jsonVid, fp, indent=2, separators=(',', ': '))
+			with open('queue.txt', 'a') as fp:
+				fp.write(vid+"\n")
 		except:
 			break
 
 def fileToQueue(q):
-	with open('queue.json', 'r') as fp:
-		try:
-			data = json.load(fp)
-		except:
-			return q
-		print(data)
-		for video in data:
-			q.put(Video("fake", data, 1))
+	with open('queue.txt', 'r') as fp:
+		for video in fp:
+			q.put(video)
+
+	with open('queue.txt', 'w') as fp:
+		fp.write("")
 	
 
 if __name__ == '__main__':
@@ -256,8 +260,18 @@ if __name__ == '__main__':
 	args = parser.parse_args()
 
 	try:
-		# level_order_traversal("1rQ_mphb7HU")
-		val = comments_request("PLcE5xa4MnI")
-		print(val)
+		level_order_traversal(BASE_VIDEO_ID)
+		# val = comments_request("PLcE5xa4MnI")
+
+		# val = recs_request("SiijS_9hPkM")
+		# print(val)
+
+		# que =  queue.Queue()
+		# que.put('abc')
+		# que.put('xyz')
+		# que.put('cde')
+		# que.put('123')
+
+		# queueToFile(que)
 	except HttpError, e:
 		print 'An HTTP error %d occurred:\n%s' % (e.resp.status, e.content)
