@@ -17,12 +17,12 @@ scopes = ["https://www.googleapis.com/auth/youtube.force-ssl"]
 DEVELOPER_KEY = 'AIzaSyB_V6J8JnB-HZ01CwflEtrcDfjqJQtqurg'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
-BASE_VIDEO_ID = "1rQ_mphb7HU"
+BASE_VIDEO_ID = "WtftZPL-k7Y"
 
 YOUTUBE = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
-CLIENT = pymongo.MongoClient("mongodb://py-user:pyuser1@cluster0-shard-00-00-gm9y9.mongodb.net:27017,cluster0-shard-00-01-gm9y9.mongodb.net:27017,cluster0-shard-00-02-gm9y9.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority")
-DB = CLIENT['Cluster0']
-COL = DB['posts']
+CLIENT = pymongo.MongoClient("mongodb://py-user:pyuser1@cluster0-shard-00-00-gm9y9.mongodb.net:27017,cluster0-shard-00-01-gm9y9.mongodb.net:27017,cluster0-shard-00-02-gm9y9.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority")   
+DB = CLIENT['ReSeed']
+COL = DB['Videos']
 
 NUM_VIDS = 100000
 
@@ -273,5 +273,5 @@ if __name__ == '__main__':
 		# que.put('123')
 
 		# queueToFile(que)
-	except HttpError, e:
-		print 'An HTTP error %d occurred:\n%s' % (e.resp.status, e.content)
+	except HttpError as e:
+		print("An HTTP error occurred")
