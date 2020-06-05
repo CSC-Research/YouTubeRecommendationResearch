@@ -29,4 +29,5 @@ class Video:
 
 	def toString(self):
 		rec_list = [x[0] for x in self.recs]
-		return self.title + " by " + self.channelID
+		# return self.title + " by " + self.channelID
+		return self.channelID
