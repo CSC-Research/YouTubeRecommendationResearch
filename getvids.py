@@ -14,5 +14,14 @@ pp.pprint(rootVid)
 rootVidObj = Video('null', rootVid, 1)
 print(rootVidObj.toString())
 
+report = COL.find_one(
+  sort=[( '_id', pymongo.ASCENDING )]
+)
+
+count = 0
+vid = rootVid
+recs = vid.recs
+
+
 # for post in COL.find():
 #     pp.pprint(post)
