@@ -14,7 +14,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 scopes = ["https://www.googleapis.com/auth/youtube.force-ssl"]
 
-DEVELOPER_KEY = 'AIzaSyB_V6J8JnB-HZ01CwflEtrcDfjqJQtqurg'
+DEVELOPER_KEY = ''
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 BASE_VIDEO_ID = "WtftZPL-k7Y"
